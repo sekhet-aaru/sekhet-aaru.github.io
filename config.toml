@@ -1,0 +1,39 @@
+baseURL = "https://sekhet-aaru.github.io/"
+languageCode = "zh-CN"
+defaultContentLanguage = "zh-CN"
+title = "苇原"
+theme = "sam"
+hasCJKLanguage = true
+enableEmoji = true
+enableRobotsTXT = true
+
+[params]
+    author = "lanee"
+    description = "杂学阅读笔记"
+    homepage = "Home"
+    footerText = "© 2018 lanee | Powered by [Hugo](https://gohugo.io/) | Theme based on [Sam](https://github.com/vickylai/hugo-theme-sam)"
+    favicon = "favicon.png"
+    primaryImage = "reeds.jpg"
+
+[permalinks]
+    post = "/:title/"
+
+[blackfriday]
+    hrefTargetBlank = true
+
+[taxonomies]
+    tag = "tags"
+    category = "categories"
+    source = "sources"
+
+[[params.mainMenu]]
+    link = "/posts/"
+    text = "Posts"
+
+[[params.mainMenu]]
+    link = "/sources/"
+    text = "Sources"
+
+[[params.mainMenu]]
+    link = "/about"
+    text = "About"
