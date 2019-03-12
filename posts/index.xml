@@ -1,141 +1,971 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on 苇原</title>
-    <link>https://sekhet-aaru.github.io/posts/</link>
-    <description>Recent content in Posts on 苇原</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language>
-    <lastBuildDate>Sat, 20 Oct 2018 01:15:44 +0800</lastBuildDate>
-    
-	<atom:link href="https://sekhet-aaru.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Anat 阿纳特</title>
-      <link>https://sekhet-aaru.github.io/posts/anat/</link>
-      <pubDate>Sat, 20 Oct 2018 01:15:44 +0800</pubDate>
-      
-      <guid>https://sekhet-aaru.github.io/posts/anat/</guid>
-      <description>叙利亚沿海地区乌加里特的女战神，在中王国末期被引入埃及。 希克索斯王朝的统治者们似乎曾宣扬她的崇拜，拉美西斯时期阿纳特是尼罗河三角洲的重要的女</description>
-    </item>
-    
-    <item>
-      <title>Apis 阿匹斯</title>
-      <link>https://sekhet-aaru.github.io/posts/apis/</link>
-      <pubDate>Fri, 19 Oct 2018 00:55:57 +0800</pubDate>
-      
-      <guid>https://sekhet-aaru.github.io/posts/apis/</guid>
-      <description>公牛神，表现为孟斐斯普塔神的化身或者现世形象（living image）。阿匹斯可以被称呼为“普塔之子”或他的“信使”，作为人类与孟斐斯创始神</description>
-    </item>
-    
-    <item>
-      <title>Hugo笔记</title>
-      <link>https://sekhet-aaru.github.io/posts/hugo/</link>
-      <pubDate>Wed, 17 Oct 2018 19:43:12 +0800</pubDate>
-      
-      <guid>https://sekhet-aaru.github.io/posts/hugo/</guid>
-      <description>GitHub Repository New repostory &amp;gt; Repostory name: &amp;lt;yourusername&amp;gt; SSH Key $ cd ~/.ssh $ ssh-keygen -t rsa -C &amp;lt;youremail&amp;gt; Generating public/private rsa key pair. Enter file in which to save the key (/Users/your_user_directory/.ssh/id_rsa): Enter passphrase (empty for no passphrase): &amp;lt;passphrase&amp;gt; Enter same passphrase again: &amp;lt;passphrase&amp;gt; 这步做完我才发现文件夹里不知道为什么有个去年生成的</description>
-    </item>
-    
-    <item>
-      <title>Haurun</title>
-      <link>https://sekhet-aaru.github.io/posts/haurun/</link>
-      <pubDate>Sun, 14 Oct 2018 03:19:36 +0800</pubDate>
-      
-      <guid>https://sekhet-aaru.github.io/posts/haurun/</guid>
-      <description>迦南的大地之神，在埃及最常与吉萨的狮身人面像统一。 Haurun作为人名在埃及已存在超过1200年。公元前1900年，他出现在埃及人在仪式中诅</description>
-    </item>
-    
-    <item>
-      <title>Banebdjedet</title>
-      <link>https://sekhet-aaru.github.io/posts/banebdjedet/</link>
-      <pubDate>Sun, 14 Oct 2018 02:09:41 +0800</pubDate>
-      
-      <guid>https://sekhet-aaru.github.io/posts/banebdjedet/</guid>
-      <description>公羊神，其名意为“门德斯ba（即‘灵魂’）之主”，他的崇拜中心在尼罗河三角洲东北部。在那里他与他的配偶HATMEHYT（被他挤掉了重要性的当</description>
-    </item>
-    
-    <item>
-      <title>Taweret</title>
-      <link>https://sekhet-aaru.github.io/posts/taweret/</link>
-      <pubDate>Sun, 14 Oct 2018 02:05:08 +0800</pubDate>
-      
-      <guid>https://sekhet-aaru.github.io/posts/taweret/</guid>
-      <description>河马女神，分娩时女性的保护者。 她的名字的意思是“伟大的”，在希腊神话中成为了Thoueris。根据普鲁塔克（公元前40-120），Tawer</description>
-    </item>
-    
-    <item>
-      <title>Wadjet 乌加特</title>
-      <link>https://sekhet-aaru.github.io/posts/wadjet/</link>
-      <pubDate>Sun, 14 Oct 2018 02:04:15 +0800</pubDate>
-      
-      <guid>https://sekhet-aaru.github.io/posts/wadjet/</guid>
-      <description>尼罗河三角洲布托（Tell el-Farain）地区的眼镜蛇女神，埃及北部的王权保护者。 乌加特被表现为一条直立上半身的眼镜蛇，准备向国王的敌人</description>
-    </item>
-    
-    <item>
-      <title>Aten 阿顿</title>
-      <link>https://sekhet-aaru.github.io/posts/aten/</link>
-      <pubDate>Sat, 13 Oct 2018 18:16:07 +0800</pubDate>
-      
-      <guid>https://sekhet-aaru.github.io/posts/aten/</guid>
-      <description>太阳神，在法老Akhenaton（第十八王朝）的统治期间达到顶峰，成为普及神且几乎为唯一神。 阿顿不容错认的形象由一个日轮以及日轮下部弧形上的</description>
-    </item>
-    
-    <item>
-      <title>Astarte 阿斯塔特</title>
-      <link>https://sekhet-aaru.github.io/posts/astarte/</link>
-      <pubDate>Sat, 10 Sep 2016 18:51:24 +0800</pubDate>
-      
-      <guid>https://sekhet-aaru.github.io/posts/astarte/</guid>
-      <description>迦南及叙利亚的女战神，西部闪米特地区，是美索不达米亚地区阿卡德崇拜的“伊修达尔”的对应。 在埃及神系中她在第十八王朝被正式承认，她的主要关联事</description>
-    </item>
-    
-    <item>
-      <title>Atum 阿图姆</title>
-      <link>https://sekhet-aaru.github.io/posts/atum/</link>
-      <pubDate>Mon, 28 Dec 2015 06:45:33 +0800</pubDate>
-      
-      <guid>https://sekhet-aaru.github.io/posts/atum/</guid>
-      <description>太阳神，宇宙创造者。 “阿图姆”寓意着“整体”，一种终极的不可改变的完美状态。阿图姆常被称作“赫利奥波利斯之主”（埃及语为Iunu），太阳崇拜</description>
-    </item>
-    
-    <item>
-      <title>Osiris 奥西里斯</title>
-      <link>https://sekhet-aaru.github.io/posts/osiris/</link>
-      <pubDate>Sun, 27 Dec 2015 20:58:04 +0800</pubDate>
-      
-      <guid>https://sekhet-aaru.github.io/posts/osiris/</guid>
-      <description>掌管着埃及冥界Duat的神。 他的形象为人形，最早出现于King Djedkara Izezi（第五王朝）统治时期的一块石头上，描绘了一位神的头部和上半身，上面</description>
-    </item>
-    
-    <item>
-      <title>Isis 爱茜丝</title>
-      <link>https://sekhet-aaru.github.io/posts/isis/</link>
-      <pubDate>Sat, 26 Dec 2015 09:15:56 +0800</pubDate>
-      
-      <guid>https://sekhet-aaru.github.io/posts/isis/</guid>
-      <description>拥有极为强大的魔力的女神，象征着国王的母亲。 女神的名字的象形文字是代表王座的符号，表示着她在埃及王权传承中所处的重要地位。爱茜丝的形象为王后</description>
-    </item>
-    
-    <item>
-      <title>Horus 荷鲁斯</title>
-      <link>https://sekhet-aaru.github.io/posts/horus/</link>
-      <pubDate>Sat, 26 Dec 2015 04:34:08 +0800</pubDate>
-      
-      <guid>https://sekhet-aaru.github.io/posts/horus/</guid>
-      <description>鹰神，“天空之主”，神圣王权的象征。 他的名字（埃及语为Har）的意思可能是“高的”或“遥远的”，出现于公元前3000年前王朝文明刚刚出现时，</description>
-    </item>
-    
-    <item>
-      <title>Seth 塞特</title>
-      <link>https://sekhet-aaru.github.io/posts/seth/</link>
-      <pubDate>Fri, 25 Dec 2015 18:18:14 +0800</pubDate>
-      
-      <guid>https://sekhet-aaru.github.io/posts/seth/</guid>
-      <description>混沌力量之神，崇拜和敌视皆存。 塞特角色的复杂性无法从他的名字的词源解释，他的名字在象形文字中被写为‘Setekh’, ‘Setesh’, ‘Su</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Posts on 苇原</title>
+		<link>https://sekhet-aaru.github.io/posts/</link>
+		<description>Recent content in Posts on 苇原</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>zh-hans</language>
+		<lastBuildDate>Sat, 20 Oct 2018 01:15:44 +0800</lastBuildDate>
+		<atom:link href="https://sekhet-aaru.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Anat 阿纳特</title>
+			<link>https://sekhet-aaru.github.io/posts/anat/</link>
+			<pubDate>Sat, 20 Oct 2018 01:15:44 +0800</pubDate>
+			
+			<guid>https://sekhet-aaru.github.io/posts/anat/</guid>
+			<description>叙利亚沿海地区乌加里特的女战神，在中王国末期被引入埃及。 希克索斯王朝的统治者们似乎曾宣扬她的崇拜，拉美西斯时期阿纳特是尼罗河三角洲的重要的女</description>
+			<content type="html"><![CDATA[<p>叙利亚沿海地区乌加里特的女战神，在中王国末期被引入埃及。</p>
+
+<p>希克索斯王朝的统治者们似乎曾宣扬她的崇拜，拉美西斯时期阿纳特是尼罗河三角洲的重要的女神。她戴着两侧饰有羽毛的高冠，盾牌、长枪和战斧强调了她的战争特质。阿纳特会出现在<code>哈托尔</code>的肖像下方，因为哈托尔与外邦神关系紧密（例如比布鲁斯或西奈半岛的的<code>BAALAT</code>），而且本性中拥有嗜血的一面，尽管通常是被压抑着的。</p>
+
+<p>阿纳特被称作“天空的女主人”和“众神之母”，但是在埃及和近东文明中她的好战占据了主要部分。因为阿纳特能够在战斗中保护君主，她被引入埃及神系。例如，拉美西斯三世（第二十王朝）在战场上将阿纳特和<code>阿斯塔特</code>用作盾牌（防护？）。第二十一王朝，Beit el Wali神庙中一块浮雕上画着拉美西斯二世的狗冲向一名战败的利比亚人，这条狗的名字是“充满活力的阿纳特”。</p>
+
+<p>埃及人对她的接纳反映在塔尼斯大片的供奉区域，和用神命名（theophorous）的名字Anat-em-Heb，即“（她的）节日中的阿纳特”（基于Hor-em-heb或更常见的Amen-em-heb）。有时女神也出现在叙利亚名的直接音译中，例如拉美西斯二世的女儿Bint-Anat，即“阿纳特的女儿”。埃及人认为她和阿斯塔特是太阳神<code>拉</code>的女儿，埃及王位争夺中，Sais的<code>尼斯</code>的介入导致阿纳特和阿斯塔特成为<code>塞特</code>神的妻子——作为败给<code>荷鲁斯</code>失去王权的安慰奖。</p>
+
+<p>叙利亚沿海地区乌加里特找到的楔形文字中，阿纳特的形象是一位无情的女神，带有强烈的性元素。她垂涎名叫Aqhat的青年拥有的一张好弓，遭到拒绝后，她让一只鹰去杀死了他。在另一个神话系列（mythological cycle）中，她向杀害了她哥哥<code>BAAL</code>的莫特复仇，用剑劈了他，把他扔到火堆上，磨碎了他的骨头然后洒向鸟兽的地盘。她和哥哥Baal的关系比起妹妹更像是“挚爱”。有证据表明阿纳特和Baal之间的性结合，他们的后代似乎是野牛的形态。阿纳特作为丰饶女神的一面可以在埃及非王室的纪念碑上找到，阿纳特与勃起的<code>敏</code>在一起。</p>
+
+<hr />
+
+<p>brother &amp; sister：兄妹/姐弟不明</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Apis 阿匹斯</title>
+			<link>https://sekhet-aaru.github.io/posts/apis/</link>
+			<pubDate>Fri, 19 Oct 2018 00:55:57 +0800</pubDate>
+			
+			<guid>https://sekhet-aaru.github.io/posts/apis/</guid>
+			<description>公牛神，表现为孟斐斯普塔神的化身或者现世形象（living image）。阿匹斯可以被称呼为“普塔之子”或他的“信使”，作为人类与孟斐斯创始神</description>
+			<content type="html"><![CDATA[<p>公牛神，表现为孟斐斯<code>普塔</code>神的化身或者现世形象（living image）。阿匹斯可以被称呼为“普塔之子”或他的“信使”，作为人类与孟斐斯创始神通过神谕交流的媒介。</p>
+
+<p>献祭用青铜器和希腊作家希罗多德的一则描述体现出了阿匹斯公牛不同于其他牲畜的神圣性质。阿匹斯公牛的母亲<code>爱茜丝</code>通过一道闪电受孕。在来世，见证阿匹斯的神秘诞生是一项死者的特权。阿匹斯公牛全身黑色，只在额头上有一小块白色三角形斑点。他的牛角之间托着日轮的象征和圣蛇（参见<code>乌加特</code>）——在后来的公牛形象中，有时是月轮。他的背上是秃鹫女神（希罗多德所说为鹰）的守护翅膀。一处细微特征是它的尾巴分为两股，这种古埃及常见的双重表现通常可以被理解为代表原本北部和南部的两个国家。祭司在阿匹斯舌下发现的圣甲虫，据希罗多德所述是取自太阳的意象。</p>
+
+<p>在孟斐斯，阿匹斯居住在普塔神庙附近的一个宫殿区域内，希罗多德提及近七米的公牛神的雕像（当然是人形公牛头）支撑着神庙屋顶。金字塔铭文和死者之书表明，孟斐斯北部尼罗河三角洲城镇Sais和Athribis会庆祝现世阿匹斯崇拜。</p>
+
+<p>巴勒莫石碑上记录的早期埃及国王年表证明，在埃及建立国家不久后（约公元前3000年）Den的统治期内，阿匹斯就受到崇拜。埃及祭司曼涅托（公元前三世纪，他为托勒密统治者提供了希腊语言记载的法老的历史）残留的记录中也证明了阿匹斯崇拜的古老：记录称阿匹斯崇拜开始于第二王朝国王Kaiechos（埃及王名表为Kakau，考古资料来源为Raneb）的统治期内。</p>
+
+<p>在对现世神明法老的宣传中，阿匹斯的公牛意象（与力量和生育能力存在内在联想）与法老的紧密联系是一项古老的特征。调色板上的雕刻和王室礼仪中“胜利的公牛”名字均体现了这一点。周年庆典（一项君主重获力量的仪式）上，法老和飞奔的公牛健步同行。底比斯卡纳克神庙一座被拆除的礼堂的石块上生动地绘制了这项在孟斐斯进行的仪式，女王哈特谢普苏特（第十八王朝）身着法老的服饰阔步走在阿匹斯旁边，以更新她重要的统治力。</p>
+
+<p>墓葬祭祀中，阿匹斯与王室的联系也在继续。来世升天至太阳神处的国王声明他不会在途中被凶残的猿猴伤害，因为他的力量是如此强大，得以找回应该是被猿猴砍下的阿匹斯的头颅。然而，通常公牛神才是保护者。国王通过攀爬阿匹斯强大的阴茎抵达太阳神的领域，阿匹斯的活力（vigour）让人能控制另一个世界的四种风。变形成阿匹斯“high of horns, beautiful of names, far-seer and wideranger”能让人避免来世令人厌恶的自然现象的转变和强制消耗有毒物质。</p>
+
+<p>阿匹斯的平均寿命为14年。在此期间，孟斐斯会举办节日庆祝，上级阶层可以从神庙的窗户看到阿匹斯，这是从王室庆典里照搬的程序。阿匹斯死亡后，埃及会为它默哀，就好像君主去世一样。</p>
+
+<p>公牛的木乃伊化在狮头雪花石膏桌子上进行，这些桌子在孟斐斯存留了一部分。葬礼用来显示排场，进行了防腐措施并饰以珠宝的公牛趴在雪橇上，被人们拖去墓地。埋葬地点在撒哈拉沙漠的北部，可以眺望到阿匹斯生活过的首都孟斐斯。1851年，Mariette在Serapeum发现了许多为了埋葬公牛开凿的地下墓穴，有些墓穴中有重达70吨的花岗岩石棺，用于保护公牛和贵重的陪葬品——全都被盗了。有些埋葬可以追溯到新王国时期，但大部分墓穴是在公元前7世纪中期之后开凿的。没有考古或碑文记录证明，波斯统治者冈比西斯（第二十七王朝）曾因征服埃及时遇到天灾而在节日中杀死阿匹斯以证明公牛只是血肉之躯并非神明。在波斯统治埃及期间，似乎确实没有时间进行阿匹斯葬礼。希罗多德写这个故事只是为了诋毁冈比西斯。</p>
+
+<p>晚期的地下墓穴长达198米，阿匹斯崇拜的衰退使得花岗岩石棺空置在一条走廊里，被公牛崇拜最后的祭司官员的工人们遗弃。</p>
+
+<p>阿匹斯的母亲爱茜丝和她著名的孩子被带来孟斐斯后，她死后被光荣地埋葬在撒哈拉墓葬地名为Iseum的墓穴中，目前还未完全勘探。但在这里出土了一块有趣的石碑，在克娄巴特拉七世（托勒密时期）离开埃及时（或许是去叙利亚面见马克·安东尼）庆祝爱茜丝母牛的埋葬。</p>
+
+<p>墓葬文字中，阿匹斯偶尔会被赋予在冥界打谷的任务。这显然是埃及农业中牛的角色的映射。例如在底比斯Menna的墓室中绘有壁画。不过，在来世（Hereafter）阿匹斯通常是更加重要的存在。根据死去的国王在冥界的地位，阿匹斯通过死亡成为<code>奥西里斯</code>神。托勒密统治期早期出现的混合神<code>塞拉皮斯</code>，其性质中的埃及元素正是由孟斐斯圣牛的奥西里斯-阿匹斯形态提供。</p>
+
+<hr />
+
+<p>希罗多德(´・ω・｀)……</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Hugo笔记</title>
+			<link>https://sekhet-aaru.github.io/posts/hugo/</link>
+			<pubDate>Wed, 17 Oct 2018 19:43:12 +0800</pubDate>
+			
+			<guid>https://sekhet-aaru.github.io/posts/hugo/</guid>
+			<description>GitHub Repository New repostory &amp;gt; Repostory name: &amp;lt;yourusername&amp;gt; SSH Key $ cd ~/.ssh $ ssh-keygen -t rsa -C &amp;lt;youremail&amp;gt; Generating public/private rsa key pair. Enter file in which to save the key (/Users/your_user_directory/.ssh/id_rsa): Enter passphrase (empty for no passphrase): &amp;lt;passphrase&amp;gt; Enter same passphrase again: &amp;lt;passphrase&amp;gt; 这步做完我才发现文件夹里不知道为什么有个去年生成的</description>
+			<content type="html"><![CDATA[
+
+<h2 id="github-repository">GitHub Repository</h2>
+
+<p>New repostory &gt; Repostory name: &lt;yourusername&gt;</p>
+
+<h2 id="ssh-key">SSH Key</h2>
+
+<pre><code>$ cd ~/.ssh
+$ ssh-keygen -t rsa -C &lt;youremail&gt;
+Generating public/private rsa key pair.
+Enter file in which to save the key (/Users/your_user_directory/.ssh/id_rsa): 
+Enter passphrase (empty for no passphrase): &lt;passphrase&gt;
+Enter same passphrase again: &lt;passphrase&gt;
+</code></pre>
+
+<p>这步做完我才发现文件夹里不知道为什么有个去年生成的key……算了。</p>
+
+<p>把id_rsa.pub文件里的内容添加到Account Settings &gt; SSH Public keys &gt; add another public keys</p>
+
+<pre><code>git config user.name &lt;username&gt;
+git config user.email &lt;email&gt;
+</code></pre>
+
+<p>多账号千万不要瞎用<code>--global</code>……<br />
+<code>git config --list</code>可以检查当前账号。</p>
+
+<h2 id="hugo">Hugo</h2>
+
+<p>下载<a href="https://github.com/gohugoio/hugo/releases" target="_blank">Hugo</a>，添加到环境变量。</p>
+<div class="highlight"><pre class="chroma"><code class="language-bash" data-lang="bash">hugo new site &lt;yoursitefolder&gt;
+<span class="nb">cd</span> &lt;yoursitefolder&gt;
+git init
+git remote add origin git@github.com:sekhet-aaru/sekhet-aaru.github.io.git</code></pre></div>
+<h3 id="添加模板">添加模板</h3>
+<div class="highlight"><pre class="chroma"><code class="language-bash" data-lang="bash">git submodule add https://github.com/vickylai/hugo-theme-sam.git themes/sam</code></pre></div>
+<p>模板可以用clone。添加为submodule利于更新。</p>
+
+<h3 id="基本设置">基本设置</h3>
+
+<p><code>params</code>是模板参数。</p>
+<div class="highlight"><pre class="chroma"><code class="language-toml" data-lang="toml"><span class="nx">baseURL</span> <span class="p">=</span> <span class="s2">&#34;https://sekhet-aaru.github.io/&#34;</span>
+<span class="nx">languageCode</span> <span class="p">=</span> <span class="s2">&#34;zh-CN&#34;</span>
+<span class="nx">defaultContentLanguage</span> <span class="p">=</span> <span class="s2">&#34;zh-CN&#34;</span>
+<span class="nx">title</span> <span class="p">=</span> <span class="s2">&#34;苇原&#34;</span>
+<span class="nx">theme</span> <span class="p">=</span> <span class="s2">&#34;sam&#34;</span>
+<span class="nx">hasCJKLanguage</span> <span class="p">=</span> <span class="kc">true</span>
+<span class="nx">enableEmoji</span> <span class="p">=</span> <span class="kc">true</span>
+<span class="nx">enableRobotsTXT</span> <span class="p">=</span> <span class="kc">true</span>
+
+<span class="p">[</span><span class="nx">params</span><span class="p">]</span>
+    <span class="nx">author</span> <span class="p">=</span> <span class="s2">&#34;lanee&#34;</span>
+    <span class="nx">description</span> <span class="p">=</span> <span class="s2">&#34;杂学阅读笔记&#34;</span>
+    <span class="nx">homepage</span> <span class="p">=</span> <span class="s2">&#34;Home&#34;</span>
+    <span class="nx">footerText</span> <span class="p">=</span> <span class="s2">&#34;© lanee 2018 | Powered by [Hugo](https://gohugo.io/) | Theme based on [Sam](https://github.com/vickylai/hugo-theme-sam)&#34;</span>
+
+<span class="p">[</span><span class="nx">permalinks</span><span class="p">]</span>
+    <span class="nx">post</span> <span class="p">=</span> <span class="s2">&#34;/:title/&#34;</span>
+
+<span class="p">[</span><span class="nx">blackfriday</span><span class="p">]</span>
+    <span class="nx">hrefTargetBlank</span> <span class="p">=</span> <span class="kc">true</span>
+
+<span class="p">[[</span><span class="nx">params</span><span class="p">.</span><span class="nx">mainMenu</span><span class="p">]]</span>
+    <span class="nx">link</span> <span class="p">=</span> <span class="s2">&#34;/posts&#34;</span>
+    <span class="nx">text</span> <span class="p">=</span> <span class="s2">&#34;Notes&#34;</span>
+
+<span class="p">[[</span><span class="nx">params</span><span class="p">.</span><span class="nx">mainMenu</span><span class="p">]]</span>
+    <span class="nx">link</span> <span class="p">=</span> <span class="s2">&#34;/code&#34;</span>
+    <span class="nx">text</span> <span class="p">=</span> <span class="s2">&#34;Code&#34;</span>
+
+<span class="p">[[</span><span class="nx">params</span><span class="p">.</span><span class="nx">mainMenu</span><span class="p">]]</span>
+    <span class="nx">link</span> <span class="p">=</span> <span class="s2">&#34;/about&#34;</span>
+    <span class="nx">text</span> <span class="p">=</span> <span class="s2">&#34;About&#34;</span></code></pre></div>
+<p>Hugo markdown的hard line breaks问题一箩筐，被迫关闭。我至今没见过没有坑的markdown parser，我竟然还没有被劝退。</p>
+
+<h3 id="新建页面">新建页面</h3>
+<div class="highlight"><pre class="chroma"><code class="language-bash" data-lang="bash">hugo new about.md
+hugo new posts/post-title.md</code></pre></div>
+<h3 id="front-matter">Front Matter</h3>
+<div class="highlight"><pre class="chroma"><code class="language-toml" data-lang="toml"><span class="nx">title</span><span class="err">:</span> <span class="s2">&#34;Hugo笔记&#34;</span>
+<span class="nx">date</span><span class="err">:</span> <span class="ld">2018-10-17T19:43:12+08:00</span>
+<span class="nx">showDate</span><span class="err">:</span> <span class="kc">false</span>
+<span class="nx">draft</span><span class="err">:</span> <span class="kc">false</span>
+<span class="nx">tags</span><span class="err">:</span> <span class="p">[</span><span class="s2">&#34;&#34;</span><span class="p">,</span><span class="s2">&#34;&#34;</span><span class="p">]</span>
+<span class="nx">categories</span><span class="err">:</span> <span class="p">[</span><span class="s2">&#34;&#34;</span><span class="p">,</span><span class="s2">&#34;&#34;</span><span class="p">]</span>
+<span class="nx">keywords</span><span class="err">:</span> <span class="p">[</span><span class="s2">&#34;&#34;</span><span class="p">,</span><span class="s2">&#34;&#34;</span><span class="p">]</span></code></pre></div>
+<h3 id="本地预览">本地预览</h3>
+<div class="highlight"><pre class="chroma"><code class="language-bash" data-lang="bash">hugo server</code></pre></div>
+<p>基本上是即时预览，有时候会出现不同程度的延迟，原因不明。</p>
+
+<h3 id="生成页面">生成页面</h3>
+<div class="highlight"><pre class="chroma"><code class="language-bash" data-lang="bash">hugo</code></pre></div>
+<p>生成内容在public文件夹下。</p>
+
+<p>总而言之关于Hugo的部分多看几遍官方文档，很烦我知道。</p>
+
+<h2 id="提交">提交</h2>
+
+<p>把public下的内容提交到GitHub。cd错了请清空重来。</p>
+<div class="highlight"><pre class="chroma"><code class="language-bash" data-lang="bash">git submodule add -b master git@github.com:sekhet-aaru/sekhet-aaru.github.io.git public
+<span class="nb">cd</span> public
+git add .
+git commit -m &lt;必填&gt;
+git push origin master</code></pre></div>
+<p>也可以用GitHub Desktop clone到本地，然后把public下内容复制过去再GitHub Desktop同步。但我觉得这太多此一举了。</p>
+
+<p>于是在git commit和git push上栽了一个小时。</p>
+
+<hr />
+
+<p>参考列表：</p>
+
+<ol>
+<li><a href="http://www.cnfeat.com/blog/2014/05/11/how-to-build-a-blog/" target="_blank">如何搭建一个独立博客——简明 GitHub Pages与 jekyll 教程</a></li>
+<li><a href="https://mikoto10032.github.io/post/程序员那些事/github-io配合hugo搭建个人静态博客/" target="_blank">GitHub IO配合HuGo搭建个人静态博客</a></li>
+<li><a href="https://www.jianshu.com/p/58c644011f7d" target="_blank">使用Hugo+Github Pages建置Blog</a></li>
+<li><a href="https://blog.olowolo.com/post/hugo-quick-start/" target="_blank">Hugo 从入门到会用</a></li>
+</ol>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Haurun</title>
+			<link>https://sekhet-aaru.github.io/posts/haurun/</link>
+			<pubDate>Sun, 14 Oct 2018 03:19:36 +0800</pubDate>
+			
+			<guid>https://sekhet-aaru.github.io/posts/haurun/</guid>
+			<description>迦南的大地之神，在埃及最常与吉萨的狮身人面像统一。 Haurun作为人名在埃及已存在超过1200年。公元前1900年，他出现在埃及人在仪式中诅</description>
+			<content type="html"><![CDATA[<p>迦南的大地之神，在埃及最常与吉萨的狮身人面像统一。</p>
+
+<p>Haurun作为人名在埃及已存在超过1200年。公元前1900年，他出现在埃及人在仪式中诅咒的一位外国王子的名字中。</p>
+
+<p>超过一千年前哈夫拉雕刻的守护神石像被类推到Haurun，很可能是源自中王国时期迦南-叙利亚的工人定居在狮身人面像附近。或许是因为它地处沙漠西部，望向升起的太阳（在这个时代被重新解释为Harmachis，参见<code>荷鲁斯</code>词条<code>HARMACHIS</code>一节）。狮身人面像让外国工匠想到Haurun神望向“东边的城市”，也就是迦南传说中他形成的地方。称作“Haurun之殿”的Haurun神庙被修建在狮身人面像的前方。</p>
+
+<p>Haurun可以表现为一只猎鹰，一座宏伟的花岗岩和石灰岩雕像（现存于开罗博物馆）描绘了神保护着孩童时期的法老拉美西斯二世（第十九王朝）。</p>
+
+<p>Haurun也出现在一条对抗危险的野生动物（例如狮子或恶犬）的魔法咒语中，他在他的绰号“胜利的牧人”下提供保护。他的角色中存在着固有的矛盾（或双重性），因为他在埃及治愈之神的身份与他在迦南神话中作为厄运之神种植“死亡之树”的行为之间必须取得平衡。</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Banebdjedet</title>
+			<link>https://sekhet-aaru.github.io/posts/banebdjedet/</link>
+			<pubDate>Sun, 14 Oct 2018 02:09:41 +0800</pubDate>
+			
+			<guid>https://sekhet-aaru.github.io/posts/banebdjedet/</guid>
+			<description>公羊神，其名意为“门德斯ba（即‘灵魂’）之主”，他的崇拜中心在尼罗河三角洲东北部。在那里他与他的配偶HATMEHYT（被他挤掉了重要性的当</description>
+			<content type="html"><![CDATA[<p>公羊神，其名意为“门德斯ba（即‘灵魂’）之主”，他的崇拜中心在尼罗河三角洲东北部。在那里他与他的配偶HATMEHYT（被他挤掉了重要性的当地鱼类女神）和儿子哈尔波克拉特斯（参见<code>荷鲁斯</code>词条<code>孩童荷鲁斯</code>一节）一同被崇拜。该地现今名称为Tell el-Ruba，发现了用石棺埋葬神圣公羊的仪式。</p>
+
+<p>公羊表现出的强烈性冲动或许是Banebdjedet与法老拉美西斯三世（第二十王朝）母亲之间的奇妙关系的原因。拉美西斯三世在底比斯西部Medinet Habu的葬祭殿中的一块石碑上记录了这件事。TATENEN神（在这里被称作普塔-Tanen）对他视为儿子的国王说，他变形成Banebdjedet以和王后交合。但这篇碑文也可能是为了将阴间神普塔-Tanen与传统上法老的父亲太阳神统一，因为在宗教文本拉之连祷（Litany of Ra）中，公羊神被称作“天空之主”和“拉之生命”。</p>
+
+<p>在拉美西斯五世（第二十王朝）时期的一篇纸莎草（Chester Beatty I）中，Banebdjedet被带入了荷鲁斯与塞特的王位争夺中。在众神审判陷入僵局时，阿图姆派人召来了Banebdjedet。根据描述，他居住于Setit（即位于尼罗河第一大瀑布阿斯旺的Seheil岛）。这个地点清晰地将埃及北部的Banebdjedet与南部的公羊神库努牡统一。Banebdjedet（偶然地与Tatenen随行）力劝众神不要过快作出决定，应当先询问尼斯女神。女神则建议将王座授予荷鲁斯，这也成为了审判的最终结局。然而面对女神的建议时Banebdjedet的第一反应和太阳神本人一样，不愿意放弃哥哥塞特神支持弟弟荷鲁斯。</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Taweret</title>
+			<link>https://sekhet-aaru.github.io/posts/taweret/</link>
+			<pubDate>Sun, 14 Oct 2018 02:05:08 +0800</pubDate>
+			
+			<guid>https://sekhet-aaru.github.io/posts/taweret/</guid>
+			<description>河马女神，分娩时女性的保护者。 她的名字的意思是“伟大的”，在希腊神话中成为了Thoueris。根据普鲁塔克（公元前40-120），Tawer</description>
+			<content type="html"><![CDATA[<p>河马女神，分娩时女性的保护者。</p>
+
+<p>她的名字的意思是“伟大的”，在希腊神话中成为了Thoueris。根据普鲁塔克（公元前40-120），Taweret是塞特神的小妾，但在埃及王位争夺中抛弃了塞特加入了荷鲁斯一方。这或许反映出善意的Taweret与象征塞特的雄性河马之间的区别，后者会毁坏尼罗河和其栖息地尼罗河湿地附近的玉米地上的船只。</p>
+
+<p>她的形象是复合而成的：河马的头、狮子的四肢、鳄鱼的尾巴和人类的胸脯。这种狰狞的外表能够阻止邪恶的力量伤害劳作和分娩中的女性。Taweret通常将一只手放在“sa”护身符上，表示着“保护”。</p>
+
+<p>她的和善天性让她深受埃及普通人民喜爱，女神形状的光滑护身符被大量生产，好让怀孕女性佩戴。在这些雕刻品中，女神过度膨大的腹部强调了她与分娩之间的联系。做成女神形状的花瓶在她的一边乳头处穿孔，这样存放其中的牛奶就会被赋予魔力，伴随着咒语流出。在魔法咒文中，女神也被称作“reret”或“sow”，因为她友善且保护了幼童荷鲁斯，因此被呼唤治疗被毒蝎蜇伤的儿童。</p>
+
+<p>她的前身可以追溯至金字塔时代的IPY。中王国和新王国时期，她的名气不仅限于平民：她出现在底比斯卡纳克神庙第八塔门上的涂鸦中，这个区域禁止一般民众进入。还有高官献给她的精美雕像，例如Divine Adoratrice of Amun尼托克里斯的总管Pabes（第二十六王朝）。</p>
+
+<p>在Taweret的头衔“地平线的女主人”中，她成为天体神，强调了她作为古埃及北半球天空中的河马星座。帝王谷中塞提一世（第十九王朝）墓中石棺室的天花板上用精美的壁画描绘了女神天文学上的形象。</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Wadjet 乌加特</title>
+			<link>https://sekhet-aaru.github.io/posts/wadjet/</link>
+			<pubDate>Sun, 14 Oct 2018 02:04:15 +0800</pubDate>
+			
+			<guid>https://sekhet-aaru.github.io/posts/wadjet/</guid>
+			<description>尼罗河三角洲布托（Tell el-Farain）地区的眼镜蛇女神，埃及北部的王权保护者。 乌加特被表现为一条直立上半身的眼镜蛇，准备向国王的敌人</description>
+			<content type="html"><![CDATA[
+
+<p>尼罗河三角洲布托（Tell el-Farain）地区的眼镜蛇女神，埃及北部的王权保护者。</p>
+
+<p>乌加特被表现为一条直立上半身的眼镜蛇，准备向国王的敌人发起致命一击。作为“拉之眼”（与词条<code>塞赫麦特</code>和<code>泰芙努特</code>比较）的她也可以以母狮的形式出现。</p>
+
+<p>她的名字（在埃及学文献中也被称作Edjo或Uto）的意思是“绿色的”，既指代蛇的颜色，也指代了金字塔铭文中她被创造出的地点尼罗河三角洲纸莎草湿地。</p>
+
+<p>她是下埃及的守护女神，王室礼仪中用头衔如此象征（参见词条法老）。 尼罗河三角洲的主要圣地“Per-nu”在她守护之下。乌加特与她的南方对应神奈赫贝特一致——在神庙或墓室中，她经常与上埃及秃鹫女神的全身或翅膀同时出现。</p>
+
+<p>在尼罗河三角洲Khemmis抚育荷鲁斯的神话中，是乌加特负责照料年幼的荷鲁斯，后来这与爱茜丝统一。她与其他狮子神明一同被赋予了较为平凡的NEFERTUM母亲的身份。</p>
+
+<h2 id="王室圣蛇">王室圣蛇</h2>
+
+<p>王室头饰或王冠上的眼镜蛇象征着被超凡的毁灭力量支持着的主权。根据一则金字塔铭文，盖布神将眼镜蛇奖励给国王，作为王座的合法拥有者。这个标志是愤怒地直起身的乌加特，准备喷吐火焰守护君主。毒蛇（serpent）的希腊语也含有这样的意象（埃及语“iaret”），通常使用圣蛇的拉丁语形式。根据碑文，在战争中，国王眉毛上的圣蛇用她灼热的气息摧毁敌人，例如米吉多战役中的图特摩斯三世（第十八王朝）和卡迭石中的拉美西斯二世（第十八王朝）。（……？笔误吧，不是第十九王朝吗）</p>
+
+<p>太阳神拉也戴着圣蛇，将他的日轮包括在镶边内。这里乌加特是拉的灭绝代理人，尤其是在夜晚的旅途中会威胁到太阳神的冥界的恶意的蛇。</p>
+
+<p>乌加特与王权是如此一致，以致于阿赫那顿（第十八王朝）减少太阳神的形象提取要素时，眼镜蛇女神仍旧留了在日轮上，以强调阿顿神的全部主权。</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Aten 阿顿</title>
+			<link>https://sekhet-aaru.github.io/posts/aten/</link>
+			<pubDate>Sat, 13 Oct 2018 18:16:07 +0800</pubDate>
+			
+			<guid>https://sekhet-aaru.github.io/posts/aten/</guid>
+			<description>太阳神，在法老Akhenaton（第十八王朝）的统治期间达到顶峰，成为普及神且几乎为唯一神。 阿顿不容错认的形象由一个日轮以及日轮下部弧形上的</description>
+			<content type="html"><![CDATA[
+
+<p>太阳神，在法老Akhenaton（第十八王朝）的统治期间达到顶峰，成为普及神且几乎为唯一神。</p>
+
+<p>阿顿不容错认的形象由一个日轮以及日轮下部弧形上的圣蛇（参见词条<code>乌加特</code>）组成。日轮散发出的光线的末端为手掌，如果光线射向国王或王后的鼻子，这些手掌则拿着“生命”的象形文字。由此，阿顿将它的“美”（neferu）传递给身为人类与神的中间人（intercessor）的君主。</p>
+
+<p>在公元前14世纪，阿顿被升格为无可匹敌的太阳与埃及创世神。尽管阿顿的霸权仅持续了数十年，但这是书记员、祭司与大臣所经历的最为痛苦的宗教时期之一。对于其他世界范围的人类宗教信仰，阿顿崇拜同样至关重要。对于阿顿的崇拜并不是一位国王突然发起的变革，而是埃及宗教追求的极点：一位拥有无限力量的仁慈神明，显现于所有国家与自然现象。</p>
+
+<h2 id="阿赫那顿统治前的信仰">阿赫那顿统治前的信仰</h2>
+
+<p>“阿顿”一词的字面意义为圆盘（disk），并不总代表太阳，例如镜子或月亮的表面。但根据它的太阳意象我们可以追溯它被赋予神性的过程。卡纳克神庙女王哈特谢普苏特的方尖碑的碑文中，它代表着天文学概念上的太阳，方尖碑表面覆盖着的金银合金像太阳（“阿顿”）一样普照埃及。重要的神明可以出现在日轮符号中，例如“阿图姆在他的圆盘（“阿顿”）之中”。“阿顿”从这种与神力的联系到自身成为神明仅有一步之遥。努比亚Tombos发掘的图特摩斯一世（第十八王朝）的铭文中，“阿顿”一词第一次带有神明符号出现，它头戴日轮的神明形态紧随其后。但是在将近500年前，即便没有符号，“阿顿”一词已拥有神性意义。根据后宫官员Snuhe的历险中的叙述，法老阿蒙涅姆赫特一世（第十二王朝）被暗杀于1956BC的事件被描述为升空并与他的创造者阿顿相结合。</p>
+
+<p>因此在中王国时期，作为太阳神的阿顿和埃及统治者之间的联系形成了文字论述。其后，终于将希克索斯军队驱逐出埃及至巴勒斯坦的底比斯统治者Iahmose（第十八王朝），在一块石碑上被盛赞为仿佛“闪耀的阿顿”。他的继任者阿蒙霍特普一世（第十八王朝）在死亡时“与阿顿结合，与他诞生自的人合而为一（coalescing with the one from whom he had come）”。</p>
+
+<p>阿顿最早的象征符号出现在吉萨的一座献给阿蒙霍特普二世（第十八王朝）的纪念碑上，是一个张开双臂抓着法老的王名圈的有翼日轮。到了图特摩斯四世（第十八王朝）的统治期，已被王室认同为重要神明的阿顿的地位仍在提升。在他统治期间，一段圣甲虫底部记载的史料提及，战争中阿顿是法老军队的先驱——通常这个角色由阿蒙担当。</p>
+
+<p>法老阿蒙霍特普三世，阿赫那顿的父亲，愈发推崇阿顿。在他的统治期内出现了赫利奥波利斯最早的阿顿神庙和祭司职位。他的数名大臣冠以阿顿信仰相关的称号，例如Hatiay，“孟斐斯阿顿神庙两座谷仓的书记员”，和Ramose（不是维齐尔Ramose，是底比斯墓葬地46号墓葬的主人），“阿顿府邸的管理人”，描绘着他和他妻子前往观赏日轮的场景。位于底比斯西岸Malkata的阿蒙霍特普三世的宫殿被称作“阿顿的光辉”，在这位国王统治的后期，它还被称为“Per Hay”即“喜悦之家”——这个描述同样被用于艾尔-阿玛尔纳的阿顿大神庙的一部分。同样地，在Malkata，阿蒙霍特普三世下令在16天内修建一个长度超过一英里的湖泊，以取悦他的正妻Tiye王后——落成典礼则是乘坐名为“阿顿闪光”的船只在湖泊上起航。</p>
+
+<h2 id="阿赫那顿继任后的信仰">阿赫那顿继任后的信仰</h2>
+
+<p>经过第十八王朝前期的统治，阿顿的追随者逐渐巩固了阿顿在国家上的权力地位，不过仍旧与诸多代表太阳的其他重要神明共存。1352BC，阿赫那顿成为埃及王座上的唯一统治者，阿顿被捧为国家至高无上的神，几乎完全吸收、排挤或是消除了对立（rival）神明。</p>
+
+<p>在阿赫那顿统治期的开端，他保留底比斯作为宗教首都，大胆地在卡纳克对立的阿蒙神庙的东侧围墙外修建了阿顿神庙。这座神庙在阿赫那顿统治期后被拆除，但超过35000块石块（或“talatat”）得以存留，在Horemheb（第十八王朝）的统治期间被用于填充卡纳克神庙南部轴线的第九塔门。从这些石块中可以得知阿顿神庙墙壁装饰的大致内容。发掘被拆除的神庙地基提供了补充信息。这个建筑被称为“阿顿之殿”（“Per Aten”），拥有有着阿赫那顿的巨大雕像的大柱庭院，以及至少三个圣殿。其中一所圣殿被称作“奔奔之殿”，象征着原始之丘（太阳神从努恩诞生创造了宇宙），强调了阿顿和赫利奥波利斯的太阳信仰之间的联系。“奔奔”是赫利奥波利斯的圣殿使用的名称，卡纳克的书写中其后带着方尖碑的符号，这也是从赫利奥波利斯借来的意象，或许是为了表明在卡纳克东边曾有一座真正的方尖碑。底比斯阿顿神庙的一部分很大程度上属于阿赫那顿的正妻奈菲尔提蒂。显然她帮助阿赫那顿传播阿顿信仰，并且和法老一样与太阳神有着特殊联系。这可以从她王名圈的写法中找到证据，阿顿的名字被反向书写，朝向奈菲尔提蒂王后的符号。在卡纳克阿顿神庙的“面见阿顿”（Gem-pa-Aten）区域中，奈菲尔提蒂和两名女儿崇拜着日轮(?)（worship below the sun disk），将法老本人排除在外。</p>
+
+<p>在阿赫那顿的维齐尔Ramose位于尼罗河西岸的墓室中，可以找到阿顿崇拜在以阿蒙为主的底比斯的第一次爆发。墓室的大部分装饰是Ramose阿蒙霍特普三世的末期担任维齐尔时雕刻的精致的浅浮雕，以及以传统底比斯风格绘制的送葬队列。但是在有柱的墓室礼堂（pillared tomb-chapel）的后墙上，混合着传统设计与阿赫那顿为了传教而发展出的惊人的艺术风格。尽管在阿赫那顿死后，他的仇敌破坏了他的思想（阿顿的光线被切断以阻止它的“美”接触到国王），这面墙明确地反映出信仰阿顿是大臣担任重要政治职位的必要条件。</p>
+
+<p>自然地，长久以来埃及最高神阿蒙-拉的祭司们由于失去影响力而心生怨恨，然而他们只能发发牢骚。阿赫那顿在两块石碑上提到，祭司们对他的形容比对他的父亲和祖父更加邪恶，由此我们可以得知，王室和底比斯祭司之间的冲突至少可以追溯至图特摩斯四世的统治期。更为明显的是，底比斯的祭司阶层中没有人有权控制法老的意向——因此在阿顿崇拜成为政治威胁时无法扼制。</p>
+
+<p>在阿赫那顿统治的第六年，他想拥有一片未被其他神明污染的阿顿的主要崇拜地。由底比斯向北航行至壮观石灰岩峭壁林立的中埃及，他在尼罗河东岸发现了一个自然形成的圆形剧场。他将其称为“Akhet-Aten”即“阿顿的地平线”。现在阿拉伯语的命名“艾尔-阿玛尔纳”更广为人知。这是阿赫那顿余下统治期埃及帝国的中心。他用十四块石碑在两岸划出阿顿的课税区域（taxable area）的边界。在石碑上，为了强调他对阿顿的忠诚，他更改了在加冕时的使用的五个称号——新的时代开始了。</p>
+
+<table>
+<thead>
+<tr>
+<th>王衔</th>
+<th>底比斯第5年</th>
+<th>艾尔-阿玛尔纳第6年</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>荷鲁斯</td>
+<td>Strong Bull Lofty of Plumes</td>
+<td>Strong Bull Beloved of Aten</td>
+</tr>
+
+<tr>
+<td>两女神</td>
+<td>Great in Kingship in Karnak (Ipet-swt)</td>
+<td>Great in his Kingship in Akhetaten</td>
+</tr>
+
+<tr>
+<td>金荷鲁斯</td>
+<td>Crowned in Heliopolis of the south (i.e. Thebes)</td>
+<td>Raising high the Name of Aten</td>
+</tr>
+
+<tr>
+<td>上下埃及之王</td>
+<td>Ruler of the Nine Bows, Lord of Crowns, Seizer of the Crown of Upper Egypt, Neferkheperura Waenra</td>
+<td>Living by Truth (MAAT)<br />Lord of the Two Lands<br />Neferkheperura Waenra</td>
+</tr>
+
+<tr>
+<td>拉之子</td>
+<td>His beloved Amenhotep, god-ruler of Thebes</td>
+<td>Living by Truth (Maat)<br />Lord of Crowns<br />Akhenaten Great in his Lifetime</td>
+</tr>
+</tbody>
+</table>
+
+<p><del>拉倒吧王衔谁爱翻谁翻……</del></p>
+
+<p>在法老新的礼仪下，政府的地点被从底比斯王宫转移至艾尔-阿玛尔纳的王室所在地。他的本名阿蒙霍特普（“阿蒙是满意的”）被改为阿赫那顿，即“对阿顿有益的”，表明他的虔诚。根据阿顿的神话，有趣的是，阿赫那顿在新王衔中保留了太阳神拉的部分。在他的登基名中，有着“Neferkheperura”（“拉的显现是美丽的”）和“Waenra”（“拉是独一无二的”）。阿顿实际上是在日轮形象下被吸收的拉神。阿顿的崛起是对拉神王权的更新，就如同一千年前第五王朝的君主统治下拉神王权的鼎盛期。</p>
+
+<p>阿顿和拉（或RA - HARAKHTI ）之间的重要联系可以从多方面得知。为卡纳克神庙提供原材料的Gebel el-Silsila的砂岩采石场的一段铭文中，Ra-Harakhti被称作“位于Ipet-swt（卡纳克）的阿顿之中的光”。奈菲尔提蒂有四个女儿的名字中包含阿顿——Merytaten、Meketaten、Ankhesenpaaten、Nefernefruaten-ta-shery——但最后两个孩子取名为Nefernefrura和Setepenra。艾尔-阿玛尔纳的沙漠岩壁上凿出的一个墓室中，墓室的一面墙壁上绘制着其主人被授予阿顿大祭司职位的仪式。他的名字是Meryra。事实上，阿顿主要官员的头衔直接借用了赫利奥波利斯的阶层——两种信仰中大祭司均为“伟大的先知”。这种联系在一块边界石碑中更加明显，阿赫那顿将阿顿视为显现在MNEVIS（拉的圣牛）中，指向一座开凿在艾尔-阿玛尔纳东部悬崖上它的墓室。</p>
+
+<p>阿玛尔纳的阿顿神庙和底比斯的圣殿遭受了同样的命运——被拆毁后石块被用于加固Hermopolis附近的纪念碑。但是神庙地基已得到调查，从阿赫那顿的大臣墓室的雕刻中可以肯定神庙的建立。这座大神庙被称作“Akhetaten的阿顿之殿”，于第九年开始修建。它由许多复杂的庭院和供品桌组成，敞开接受阿顿的光线——不同于与卡纳克有屋顶的阿蒙圣殿。神庙中有两块引导性区域，前段被称为“喜悦之家”（“Per Hay”），在这里看到黎明最初的光线，就能毫无疑问地知道阿顿升起。其后是“Gem-Aten”（“面见阿顿”），由许多庭院组成，在这里太阳升起时将全面庆祝神的光线。越过这里至东面是主要的圣殿，阿赫那顿和奈菲尔提蒂作为平民和神的中间人主持仪式。庆典包括在祭坛上供奉供品，用王室权杖扫过，燃烧熏香。除了王室的祭坛以外，据计算神庙内部共有772张供品桌，而在南北两面直至temenos wall的区域则有多达900张。每天每张桌子都供奉定量的香油、水果、花朵、肉类和饮品是不可能的——即便只供奉一件供品，例如莴苣，仍旧不可能。但毫无疑问的是，神庙内每天的崇拜中，东西轴线两侧的供品桌都会有对阿顿的光线的完全的供奉。神庙中阿赫那顿的巨大雕像可能也得到祭司和大臣的供奉，以促使法老向阿顿传达他们的祈祷。因为除了法老和奈菲尔提蒂以外其他人禁止直接接触神。</p>
+
+<p>法老视角中的阿顿是艾尔-阿玛尔纳仅存的神学。我们可以从对阿赫那顿给予神的两种头衔形式中了解阿顿崇拜的所有重要元素——阿顿的这些名字通常被称作“Didactic”，王名圈用来强调阿顿的全部王权——消除阿蒙-拉作为神明之首的宣言。阿顿也被认为庆祝周年纪念节日，就好像法老本人一样。早期的政策显然是单一主神论——想要证明阿赫那顿是否建立了真正的一神教确实很困难——包含了一位太阳神的多种不同的表现：</p>
+
+<blockquote>
+<p>Live the beautiful god who delights in Truth (Maat depicted as a goddess with a feather on her head), Lord of all which his disk encircles, Lord of the Sky, Lord of the Earth, Aten, living and great, illuminating the Two Lands. May my father live!</p>
+
+<p>First cartouche = Live Ra-Harakhti rejoicing on the Horizon.</p>
+
+<p>Second cartouche = In his name as SHU who is in Aten. Given life forever eternally, Aten, living and great, who is in jubilee dwelling in the Temple of Aten in Akhetaten.</p>
+</blockquote>
+
+<p>后来更加精炼的头衔为：</p>
+
+<blockquote>
+<p>First cartouche = Ra lives, ruler of the Horizon rejoicing in the Horizon.</p>
+
+<p>Second cartouche = In his name as Ra, the father, who has returned as Aten.</p>
+</blockquote>
+
+<p>这是最令人信服的阿顿与赫利奥波利斯更为古老的太阳神的直接等同的证据。</p>
+
+<p>阿顿的其他神庙被修建在艾尔-阿玛尔纳以外的地区。法老时期一直是政治和行政核心的孟斐斯，阿赫那顿统治期残存的石块证明这种信仰以某种形式庆祝。在努比亚，尼罗河第三大瀑布之外，阿顿信仰在Sesebi神庙中庆祝。</p>
+
+<p>阿赫那顿死后，拉美西斯时代（Ramesside）早期的统治者们将其视为诅咒，试图将他遗忘，阿顿被削弱为次要神明。假若在阿赫那顿死后，在埃及之外，有人延续了阿赫那顿构想中的单一创世神，他们的后代写出了《旧约全书》的一部分，有着对单一神明相似的态度，这会是极为诱人的。（例如经常有人谈论诗篇104与阿顿大赞美诗的相似性。）然而，建立它们之间互相关联的理论仍需要更多的历史证据和传播的证明，因为目前为止这种说法纯粹是推测，埃及Instruction of Amenemope与希伯来Book of Proverbs之间也完全没有显著关联。</p>
+
+<p>值得记住的是，高级宗教认为这件事发生在阿顿为主神期间。而有关全权的创世神的思想在阿赫那顿统治期前早已存在，在大英博物馆的建筑师兄弟Suti与Hor的石碑上，太阳神被奉为至高无上的神明，他化身为不同的神例如阿蒙、拉或荷鲁斯。但是在阿赫那顿的统治下，这些思想被精心地概念化。假如阿顿的赞美诗不是法老本人所写，那它显然经过了王室的仔细审查，得以存留在艾尔-阿玛尔纳的大臣的石制墓室中。以下几段阿顿大赞美诗摘录自维齐尔Ay的墓室，试图强调阿顿独一无二的各种方面：</p>
+
+<ol>
+<li>阿顿是唯一创世神，它无暇的美以光线的形式从遥远的距离传达至地面。</li>
+<li>夜晚是对阿顿的否定，是令人恐惧的时间——狮子和蛇充满了死亡威胁。唯一的解脱是地平线上的阿顿带来的黎明。</li>
+<li>日常生活的结构顺序在阿顿下繁荣——田野上的工作被完成，河运顺畅无阻。</li>
+<li>阿顿带来人类生命的奇迹，在出生之前为子宫中的种子提供营养，他的保护也延续至儿童。在他的关爱下，没有任何形式的生命是不重要的——阿顿甚至照看蛋壳中的小鸡。</li>
+<li>在阿顿的光线下大自然茁壮成长——树木开花，牛、鸟和鱼都很健壮。（这显然是等同于壁画和走廊中绘制的Malkata和艾尔-阿玛尔纳王宫的小牛、鸭子和植物的文字意象。）</li>
+<li>阿顿对于人类是不可见的。阿顿为他创造的这个世界带来种种益处。在古埃及有限的世界观中，阿顿展现他的独创性，为缺乏源自冥界的尼罗河与洪水的叙利亚人在天空中创造了一条尼罗河（即雨水）。</li>
+<li>阿顿将人类分为肤色和语言不同的种族——考虑到埃及的政治宣传经常污蔑叙利亚人和努比亚人，这种将外国人也视为阿顿的造物的概念越发令人吃惊。</li>
+</ol>
+
+<p>然而，这首开放且颇具悟性的赞诗的结尾让人联想到一名暴君对自己奉为国家宗教之首的神明的嫉妒——需要注意的是，阿赫那顿本身拥有阿顿的知识。根据阿赫那顿和奈菲尔提蒂对其他所有埃及人发布的神的意愿，阿赫那顿大臣墓室中的祈祷中没有对阿顿的个人思考或对其设计的个人见解。</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Astarte 阿斯塔特</title>
+			<link>https://sekhet-aaru.github.io/posts/astarte/</link>
+			<pubDate>Sat, 10 Sep 2016 18:51:24 +0800</pubDate>
+			
+			<guid>https://sekhet-aaru.github.io/posts/astarte/</guid>
+			<description>迦南及叙利亚的女战神，西部闪米特地区，是美索不达米亚地区阿卡德崇拜的“伊修达尔”的对应。 在埃及神系中她在第十八王朝被正式承认，她的主要关联事</description>
+			<content type="html"><![CDATA[<p>迦南及叙利亚的女战神，西部闪米特地区，是美索不达米亚地区阿卡德崇拜的“伊修达尔”的对应。</p>
+
+<p>在埃及神系中她在第十八王朝被正式承认，她的主要关联事物为马拉战车。在阿蒙霍特普二世彰显英勇而修建的狮身人面像旁的石碑上，在尚为储君时，阿斯塔特就因他高超的骑术而十分欣悦。在她的肖像中，有时她会戴着象征着统治的公牛角，表现出她的攻击性。类似地，在她的故乡地中海东部，阿斯塔特是战场女神，比如说派来赛特人（Peleset (Philistines)）在基利波山上杀死扫罗和他的三个儿子后，他们把敌人的盔甲当做战利品，放置在亚斯她录（=阿斯塔特）神庙中<sup class="footnote-ref" id="fnref:1"><a href="#fn:1">1</a></sup>。</p>
+
+<p>和阿纳特同样，她也是拉神的女儿，塞特的妻子，但同时她也和海神存在关系。在残破的纸莎草中记载了阿斯塔特和海洋的传说大致如下：海神亚姆（Yamm）要求众神供奉祭品，其中包括收获女神列涅努忒（Renenutet），于是阿斯塔特（在这里被称为“普塔之女”）被作为替身。剩下的内容不得而知，部分推测认为女神平息了海神的怒火。</p>
+<div class="footnotes">
+
+<hr />
+
+<ol>
+<li id="fn:1">Saul, Mount Gilboa, Ashtoreth, 圣经
+ <a class="footnote-return" href="#fnref:1"><sup>[return]</sup></a></li>
+</ol>
+</div>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Atum 阿图姆</title>
+			<link>https://sekhet-aaru.github.io/posts/atum/</link>
+			<pubDate>Mon, 28 Dec 2015 06:45:33 +0800</pubDate>
+			
+			<guid>https://sekhet-aaru.github.io/posts/atum/</guid>
+			<description>太阳神，宇宙创造者。 “阿图姆”寓意着“整体”，一种终极的不可改变的完美状态。阿图姆常被称作“赫利奥波利斯之主”（埃及语为Iunu），太阳崇拜</description>
+			<content type="html"><![CDATA[<p>太阳神，宇宙创造者。</p>
+
+<p>“阿图姆”寓意着“整体”，一种终极的不可改变的完美状态。阿图姆常被称作“赫利奥波利斯之主”（埃及语为Iunu），太阳崇拜的中心地。该地存在的另一位太阳神使得两位神合并为拉-阿图姆。</p>
+
+<p>通常阿图姆被绘制为人形，有时戴着上下埃及王冠，有时戴着王室头巾。他有时庄严地站立着，有时是受人敬重的官员形象，倚靠在他的权杖上。年长的阿图姆则象征着夕阳。</p>
+
+<p>代表阿图姆的生物包括狮子、公牛、猫鼬和蜥蜴。蛇的形象非常重要，它代表着一个通常不是由埃及人提出的概念：宇宙毁灭、“诸神的黄昏”（Gotterdämmerung），仅有阿图姆和奥西里斯得以存活。《死者之书》一段阿图姆与奥西里斯的对话中，阿图姆表示他将最终毁灭世界，令众神、人类和埃及湮灭在时间原点的原始之水（primal waters）（努恩）中。在这场浩劫中，阿图姆和奥西里斯将以大蛇的形态存活。位于埃及中部Hatnub的一块石头上的碑文也出现了类似的概念，在神话学的时间线上，早些时候的一轮灾难中唯一的生存者就是蛇kerhet。这个意象来自于蛇蜕皮（即毁灭）显现出新的形态（即重生）。</p>
+
+<p>早在金字塔时代就有提及阿图姆创造元素之神的故事。从原始之水诞生后，阿图姆握住他的阴茎使其射精。阿图姆名字的象形文字中就包含了进行这项重要创造行为的手的图形，象征着嫁给阿蒙的底比斯女祭司的“神之手”头衔也来源于此。阿图姆的精液产生了宇宙中最初的两位神，舒和泰芙努特，他们的子孙组成了赫利奥波利斯的阿图姆的九柱神（Ennead）。关于阿图姆创造子嗣，同时期还有一种变体诸多的解释：基于舒和泰芙努特名字发音与吐痰和咳痰（spit and expectorate）的相似性，这两位神被认为是从阿图姆的黏液中诞生的。</p>
+
+<p>最晚从第四王朝起，阿图姆被称作埃及国王之父，加强了太阳神拉与君主间的最为重要的联系。因此，国王下葬时会寻求阿图姆作为父亲保护金字塔。在来世（Afterlife），阿图姆拥抱他的儿子，也就是死去的君主，将他带上天空成为星座神（star-gods）之首。通过魔法，国王甚至有望比阿图姆更加强大，成为至高无上的神，像阿图姆一样统治神界。国王的这种神化使得王室血脉本身成为了一种阿图姆的代表。</p>
+
+<p>在政治领域内，阿图姆参与法老的加冕仪式尤为重要。例如在卡纳克的阿蒙神妙中，有浮雕描绘了阿图姆与门图，分别对应北部与南部埃及的两位伟大的神，引领着国王走向圣域。这暗示着创世神阿图姆是法老力量的最终来源：这份力量最终属于获得埃及王座的荷鲁斯（埃及国王就是其在现世的代表），阿图姆的第五代子孙。</p>
+
+<p>阿图姆的强大力量镇压了冥界的敌对势力。他战胜了危险的蛇神NEHEBU-KAU，用指甲钉入了他的脊椎。在冥界的第九道门，阿图姆对抗盘蛇阿波菲斯，将它彻底击败。另外，在底比斯帝王谷的所有新王国时期的陵墓中，例如阿蒙霍特普二世（第十八王朝）、塞提一世（第十九王朝）、拉美西斯六世（第二十王朝），墙壁都绘有阿图姆手握权杖，监督着太阳的敌人受刑（通常是溺死或砍头）。阿图姆给予死者保护，让他们通过冥界前往乐土，在火湖（Lake of Fire）上确保一条安全的通道，避开潜伏其中以吞食灵魂和心脏为生的致命的狗头神。尽管阿图姆无人能敌，棺木文中曾有一段有趣的描述，阿图姆在“叛乱日”（day of rebellion）中失去了胡子——一份对于太阳神的敌人来说无价的战利品。</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Osiris 奥西里斯</title>
+			<link>https://sekhet-aaru.github.io/posts/osiris/</link>
+			<pubDate>Sun, 27 Dec 2015 20:58:04 +0800</pubDate>
+			
+			<guid>https://sekhet-aaru.github.io/posts/osiris/</guid>
+			<description>掌管着埃及冥界Duat的神。 他的形象为人形，最早出现于King Djedkara Izezi（第五王朝）统治时期的一块石头上，描绘了一位神的头部和上半身，上面</description>
+			<content type="html"><![CDATA[
+
+<p>掌管着埃及冥界Duat的神。</p>
+
+<p>他的形象为人形，最早出现于King Djedkara Izezi（第五王朝）统治时期的一块石头上，描绘了一位神的头部和上半身，上面标记着奥西里斯的象形文字。他的全身画像则是身躯包裹在木乃伊包带中，露出的手臂握着王权权杖——弯钩和连枷。他独有的王冠被称作Atef，底部是公羊角，上部是圆锥形，左右各有一根羽毛。</p>
+
+<p>许多学者试图从他的名字的书写方法中寻找背后的词源，以证明奥西里斯的来源。但几乎没有理论能够得到足够的支持，大多数仍处于不确定状态。从眼睛和王冠的标志看来，奥西里斯在尼罗河东西皆有“根源”，例如他在美索不达米亚被称为马杜克神，在利比亚则是所谓的谷物神，拥有一个柏柏尔语的名字，意为“上古之神”（old one）。他的名字也被拆解为“拥有王权的人”或“爱茜丝的伴侣”，甚至有人认为在奥西里斯背后存在一个原始女神，其姓名可被解释为“属于子宫的人”。然而，可能性最高的解释似乎是最简单的：奥西里斯的名字与单词“woser”有关，给人以“强大的”印象。</p>
+
+<h2 id="金字塔时代的奥西里斯">金字塔时代的奥西里斯</h2>
+
+<h3 id="他的祖先">他的祖先</h3>
+
+<p>在第五王朝末期后修建的金字塔中，刻有一份奥西里斯的系谱。显然，这是赫利奥波利斯的太阳神祭司们的手笔，试图将奥西里斯融合进他们的神学中，聪明地将奥西里斯置于他们自己的神的两代之下：</p>
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td></td>
+<td><code>阿图姆</code></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>舒</code></td>
+<td></td>
+<td><code>泰芙努特</code></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>盖布</code></td>
+<td></td>
+<td><code>努特</code></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>奥西里斯</td>
+<td>爱茜丝</td>
+<td><code>塞特</code></td>
+<td><code>奈芙缇丝</code></td>
+<td><code>托特</code></td>
+</tr>
+</tbody>
+</table>
+
+<p>奥西里斯被描述为盖布和努特的第一个孩子，他的出生地是Rosetau，位于孟斐斯附近的西部沙漠，暗示着冥界的入口。</p>
+
+<h3 id="他的绰号">他的绰号</h3>
+
+<p>这些头衔解释奥西里斯的本性，用来描述他的伟大价值，虽然大多数情况下似乎都是从其他神处搬到奥西里斯头上。这表示奥西里斯身为普及神的说法的成功性，能够吸收其他神成为他自己的特性。</p>
+
+<p>西方之首（埃及语Khentamentiu）：突出了奥西里斯作为葬礼神的身份，尼罗河西部是大部分墓地的所处地，也是太阳落下沉入Duat的地方。这个头衔原先属于在阿拜多斯被崇拜的一位古老的胡狼神。</p>
+
+<p>居住于Andjet的人：这个头衔指的是尼罗河三角洲的奥西里斯崇拜中心Busiris。这个地区的地方神Andjety可能就是奥西里斯肖像中王权的来源。</p>
+
+<p>居住于赫利奥波利斯的人：根据这个描述，奥西里斯与太阳崇拜原中心地的居民神有关。</p>
+
+<p>居住于猎户座的人、一个季节住在天上、一个季节住在地上：这个形式将奥西里斯与一个重要星座联系起来，代表了与他相关的一个天文元素，和主流的地府方向冲突。这个意象或许是从国王在来世（Afterlife）成为了星座神（Star-god）的说法提取而来。</p>
+
+<p>居住于塞尔凯特神的房屋中的人：这个称呼让奥西里斯与蝎子女神的关系变得亲密，塞尔凯特是人类遗体的 守护者，在葬礼文化中有重要地位。</p>
+
+<p>神帐篷中的人：防腐者将尸体制成木乃伊的房间被置于奥西里斯的保护之下。这个身份可能是从阿努比斯处借来。但这个头衔的描述却尤为适合奥西里斯：</p>
+
+<p>“香薰中的人”：即在防腐仪式中点燃的熏香，芳香的环境可以抵消埃及人对冥界之神伴有的死亡的腐气和恶臭的恐惧。其实，《金字塔铭文》中的一段文字明确地表示，在来世，国王不会踏上“奥西里斯的腐物”。</p>
+
+<p>“被放置于盒子中的人”：即为石棺。曾有人认为这指的是希腊作家普鲁塔克（公元40-120）写的奥西里斯被塞特谋杀的传说故事。但这种说法似乎并不该应用在这里。这个绰号最好被理解为将奥西里斯的保护延伸至保存尸体的容器中。</p>
+
+<p>“神龛中的”：也就是古代圣地模样的葬礼神龛，被放置在石棺之上。例如图坦卡蒙的四座镀金神龛。</p>
+
+<p>“布中的”：指的是防腐处理后，为了加强安全性而包裹尸体的亚麻绷带。</p>
+
+<p>以上头衔旨在强调奥西里斯与葬礼程序和埋葬的联系，一开始只适用于国王，之后逐渐在普通民众中扩散。</p>
+
+<h3 id="奥西里斯与国王">奥西里斯与国王</h3>
+
+<p>在旧王朝时期，君主与奥西里斯间有着非常重要的联系。统治者死亡后即成为奥西里斯，Duat的王。法老的神性原体现于掌握埃及王权的<code>荷鲁斯</code>，此刻变成了新的形式，成为冥界的君主。最终，在第五王朝最后一座金字塔以及第六王朝修建的金字塔中，墓室中的文字有时用神之名指代死去的国王，例如Osiris Unas或Osiris Pepi。更有图画强调国王没有止于死亡，而是经过了形态的转化。例如表示国王“活着”离开人世，坐在了奥西里斯的王座上，向“生者”发号施令。</p>
+
+<p>与国王与奥西里斯的一致性相对，也有一些诗歌表露出对冥界统治者的忧虑和恐惧。这反映出一种潜在的希望，希望君主能成为每日可见的天空中的太阳神，而不是居住在未知禁域Duat。所以有些文字告诉我们，拉不会将国王交给奥西里斯，而另一些会说冥界之神摆脱了他的“罪恶”，离开了王室陵墓。即使是之后的中王国时期，奥西里斯的保护超出了王室范围，棺木文中也有将奥西里斯描述为可怕的恶魔。他以杀戮为荣，向死者施放恶毒的咒语，带领着一帮刽子手组成的“黑手党”，被称作“奥西里斯的屠夫手指发痛”或“奥西里斯的渔夫”。不过，奥西里斯的黑暗面从未被允许超过死者王权的象征。</p>
+
+<h3 id="奥西里斯的命运">奥西里斯的命运</h3>
+
+<p>关于奥西里斯对前王朝时期的埃及的统治被弟弟塞特终结的传说，金字塔时代的碑文提供了一个非常“斯巴达”式的理由。奥西里斯作为人类的生活似乎是被插入进奥西里斯系列神话中的，可能是为了让他与国王的父子关系更为可信（国王则代表着奥西里斯的儿子和复仇工具荷鲁斯神）。当然，与他身为纯粹的冥界统治者身份相比，奥西里斯对埃及的统治是一个模糊的概念。我们得知“Great One”，即奥西里斯，在Nedyet（他的崇拜中心阿拜多斯）的河岸上倒地（意思是他因外因死亡）。中王国时期的棺木文则清晰地表示，是塞特在Gahesty袭击了奥西里斯，然后在Nedyet的河岸上将他杀死。从未有图画描述奥西里斯死于塞特之手的场景。从绰号“在Nedyet的人”看来，奥西里斯似乎拒绝进入死亡，绰号表明他厌恶沉睡（=濒死昏迷）以及死气沉沉（=“尸僵”）。也存在另一种暗示，奥西里斯在孟斐斯附近溺水，但这种奥西里斯与水的联系仅在较晚的时期出现，似乎可以看作溺亡在尼罗河中是一种被祝福的命运（参见词条<code>Peteese与Pihor</code>）。他的姐姐爱茜丝对他的深爱在这些早期神话记录中已有所描述，在后来的故事中更是成为了一个高度展开的主题。<del>什么？怎么又变成了姐姐？？？</del>苦苦搜寻后，她在河岸上找到了奥西里斯，“收集齐了他的肉体”。由于此时并没有向后期的故事中一样提及奥西里斯被分尸，爱茜丝可能是用魔法阻止了奥西里斯腐烂。接着托特和荷鲁斯到场了，这两位神在许多王室仪式中都站在法老两侧，因此也很适合来帮助Duat的未来君主。他们将奥西里斯侧身举起——许多神庙的墙壁上都活灵活现地绘制着两位神将生命符号倾倒在法老身上的图像。接着防腐仪式在阿拜多斯进行。在各种意义上，现在奥西里斯已经退出了埃及王权的争夺——如果他原本处在争夺中的话——成为了冥界的统治者，留下他的<del>到底是姐姐还是妹妹</del>爱茜丝、荷鲁斯和塞特作为王权争夺的主角。</p>
+
+<h2 id="中王国及新王国时期的奥西里斯">中王国及新王国时期的奥西里斯</h2>
+
+<p>尽管原本墓葬仪式中强调的是阿努比斯，在第四王朝，奥西里斯逐渐在侍臣的陵墓中找到一席之地，确保死者有足够的食物供给、亚麻和雪花石膏罐子装的香料。但是这种情况只有国王进行了干预才会出现。所以在第五王朝时，奥西里斯成为了私人葬礼的主要保护神。在第十一至十二王朝，官员棺木上书写长葬礼祭文成为“礼仪需要”，从第十八王朝起，陵墓中官员的遗体旁放入写满咒语和短文的精致纸莎草，非王室成员与奥西里斯关系才被详细记录，奥西里斯角色的不同方面也有了丰富的描绘。</p>
+
+<h3 id="过多的绰号">过多的绰号</h3>
+
+<p>在这个时期中，大量出现的地域性描述特化头衔反映出了对奥西里斯的普及性的有意识的尝试。举例来说，中王国时期的文字中，奥西里斯是“Great Inert”，由爱茜丝和奈芙缇丝拼好的木乃伊尸体——估计是来源于他谋杀后被肢解。在他最初的存在理由中，他是“不存在之人的王”（king of those who are not），也就是在Duat中“生活着”的死者。在新王国时期，我们读到了越来越多的身为“生者之主”（这里指代的是冥界，明显地强调埃及人否认死亡）、“宇宙之主”和“永恒之王”的奥西里斯。</p>
+
+<p>对奥西里斯的多样性最好的表述或许在死者之书的Spell 142，列出了死者在冥界之旅中可能会用上的奥西里斯的所有名字。这是部分对奥西里斯的描述的摘录：</p>
+
+<p>Rosetau的主人，即冥界入口necropolis<br />
+居住于Buto湖<br />
+居住于孟斐斯<br />
+猿（The Ape）<br />
+两支羽毛之主<br />
+可怖之人</p>
+
+<p>其他提及奥西里斯的头衔。Osiris Hemag出现于Sais的宫殿，Osiris Sepa位于赫利奥波利斯。现在，用Duat之主奥西里斯表明王室特权身份的方法已经延伸至官员，他们将奥西里斯作为自己名字的前缀，期望在来世（Afterlife）也能拥有不可动摇的地位。</p>
+
+<p>OSIRIS WENEN-NOFER</p>
+
+<p>Wenen-nofer极有可能是从另一个神处借来的，用来委婉地隐藏死亡的腐坏。可被翻译为“永远完好的人”，或者理解为“有益的存在”（beneficent being）。这个绰号自成一体，并衍生出希腊的同个神Onnophris。</p>
+
+<h3 id="奥西里斯与拉">奥西里斯与拉</h3>
+
+<p>埃及人对冥界弥漫的幽暗的恐惧让他们将奥西里斯解释为地下的太阳神。于是，Duat享有日光，奥西里斯和拉拥抱成为“孪生灵魂”。为了将太阳神与奥西里斯系联系在一起，拉监督了奥西里斯的葬礼。但一段“公开”对话表明，两位神间存在竞争。奥西里斯强调他作为农业神的重要性，生产的二粒小麦和大麦供神与人类生存。对此拉唯一且傲慢的回答是，没有奥西里斯庄稼也一样能够生长。奥西里斯最终自以为是地回答道：拉的统治令不公滋生，但在奥西里斯的领土中，无畏的信使（weputiu）将恶人的心脏带到审判厅进行惩罚。这些信使眼中没有地位高低，所以神与人都（公平地）在奥西里斯的管制之下。</p>
+
+<h3 id="谷物之神奥西里斯">谷物之神奥西里斯</h3>
+
+<p>农业神并不是他的主要身份，但奥西里斯被谋杀后成为了冥界（Underworld）的主要神力后，就自然地和农业产生了联系，负责播种与收获周期。奥西里斯与谷物第一次清晰的联系出现在Dramatic Ramesseum Papyrus（第十二王朝）里一份仪式的记录或目录中。奥西里斯是被驴子形态的塞特“鞭打”（即打谷）的大麦，被形容为“将神砍成碎片”。另一篇中王国时期的文字中，奥西里斯的大麦身份衍生成将他类比为谷物神Neper。托勒密王朝时期有一个叫做“赶牛”的仪式，其前身可以在第五王朝和新王国时期找到。这个仪式的实质似乎是用牛蹄在神圣的地面上踩踏谷物，以促进神带来大丰收。但它也被解释为一种辟邪仪式，小牛踩过象征着奥西里斯坟墓的地面，从他的敌人面前隐藏踪迹。</p>
+
+<p>奥西里斯作为谷物神最清晰的证明是考古学证据。新王国时期的部分王室和私人陵墓中，墓室内会摆放木制框架，支撑着“Osiris-bed”，一个填满淤泥的奥西里斯的模型，其中种植了大麦。大麦的萌芽——例如在帝王谷Yuya和Tuyu（王后Tiye的父母，第十八王朝）的墓中萌芽有8英寸高——表示死者在冥界复生。同样的象征也出现在新王国时期晚期的一份Mythological Papyri中：勃起的“谷物之神”奥西里斯躺在沙漠中，说明他在贫瘠的墓地中复活。奥西里斯多色的肉体则代表着蔬菜和作物的不断循环，他的脸和手可能被涂成黑色，意味着种植大小麦的尼罗河的淤泥，他的肌肉可能是绿色的，是鲜活蔬菜和成熟前的作物田野的颜色。</p>
+
+<h3 id="奥西里斯和爱茜丝的受孕">奥西里斯和爱茜丝的受孕</h3>
+
+<p>法老时期，奥西里斯在埃及的日子是为了让大众赞同他的儿子兼继承者荷鲁斯整是王座的拥有者。从被谋杀的父亲经由篡位者的弟弟，王权能够成功地传承至儿子，归功于奥西里斯的妹妹兼妻子爱茜丝的魔法与狡猾。通过爱茜丝的魔法，死去的奥西里斯获得生气，与她性交，让她怀上了复仇之子荷鲁斯。这重要的一幕被刻在了阿拜多斯的塞提一世神庙供奉Sokar的神殿墙壁上。在一面浮雕上，奥西里斯躺在一张床榻上，用手刺激阴茎使其直立。在对侧的墙上，奥西里斯的阴茎（现在被恶意地挖掉了）插入了在他身体上空的鸢形态的爱茜丝体内。人类形态的爱茜丝站在床榻的一端，他们未来的儿子、鹰头的荷鲁斯站在另一端，构成了神圣的三位一体。这面浮雕无疑预示着奥西里斯在人世最后行为的成功。在卡纳克，有一段碑文称奥西里斯为“居住在受孕之屋的人”，暗示着爱茜丝的受孕及荷鲁斯的出生。</p>
+
+<p>奥西里斯和节德柱</p>
+
+<p>在奥西里斯崇拜的证据出现之前，他的代表性标志早已存在，名叫“节德”柱，意为“稳定”或“力量的延续”。在塞加尔King Djoser（第三王朝）的阶梯金字塔中，地下回廊里有用蓝色上釉瓷砖组成的装饰，其中一座谷仓的上面就有这个标志。它是一根底部扁平的柱形物，上部有四根水平横杠，关于它的含义有许多猜测。它会是前王朝时期圣地的祭坛吗？或者可能是四个并排的祭坛，但被用累加的方式记录（在埃及艺术中为了节省空间相当常见）？又或者是一束芦苇？或者是艺术家的画架，譬如在特提金字塔（第六王朝）附近的维齐尔Mereruka（特提是他的王？）墓中，入口的墙上就有他使用画架的模样？有可能是试图表示埃及世界中的四个地区吗？——利比亚、努比亚、中东和地中海？我们最好承认节德柱的原始意义已经不可追溯，并接受其后埃及人演化出的与奥西里斯崇拜密不可分的象征性意义。所以，《死者之书》称一根黄金节德柱为奥西里斯的脊椎。一些纸莎草和神庙浮雕中描绘了“节德”被置于奥西里斯Atef王冠之上，拥有人类手臂，握着弯钩和连枷。第十二王朝辛努塞尔特一世的登基仪式中的一环就是“竖立节德柱”仪式。“节德”是王室周年庆典仪式（royal jubilee celebrations）的重要部分，在节日中，最重要的是一个法老重返青春（rejuvenation）的仪式，国王将一根横放的镀金木制节德柱直立起来。节德柱与其他崇拜形象一样，被供奉以供品和亚麻衣物。一位名叫Kheruef的官员在他底比斯的墓中描绘了第十八王朝阿蒙霍特普三世和Tiye王后竖立节德柱的情景，仪式地点在孟斐斯或Busiris（参见<code>奥西里斯的圣地</code>）。在君主周年庆典中融入节德柱，使得埃及王权的强度和稳定性与奥西里斯在Duat的审判一样不可动摇。</p>
+
+<h3 id="奥西里斯的节日">奥西里斯的节日</h3>
+
+<p>由于奥西里斯的节日在阿拜多斯一年一度，关于奥西里斯传说的记录零碎到令人恼火。柏林博物馆中有一块石碑揭开了这位神的神秘一角，石碑属于中王国辛努塞尔特一世统治时期（第十二王朝）的一位事业有成的财政部官员Ikhernofret，国王命他用努比亚的黄金装饰阿拜多斯的奥西里斯崇拜雕像，他还用雪松木给雕像修建了一座新的神龛，镶嵌上黄金、白银、青铜和天青石。在仪式的戏剧中，祭司们将载着神龛和雕像的象征性小船扛在肩上。Ikhernofret监管了这种特殊的船neshmet的制造。节日仪式内容被总结得太过简短。</p>
+
+<p>WEPWAWET队列：这位犬神是奥西里斯的信使，领导着仪式过程。在这里，Ikhernofret避开了扮演奥西里斯敌人的祭司们对neshmet的袭击。</p>
+
+<p>大队列：Ikhernofret指挥这个戏剧重点，奥西里斯的神龛被放在另一艘船中，由一队葬礼队列从他神庙的西南处送往位于Peger的象征性的陵墓。在这个过程中又发生了与奥西里斯敌人的缠斗，Ikhernofret保护了奥西里斯（在这里被称做Wenen-nofer）。奥西里斯的敌人被消灭的场所是Nedyet河岸——正是塞特杀死他的地点。</p>
+
+<p>回到神庙：Ikhernofret组织好神龛和仪式船只，将它们放在“大帆船”（great barque）上，从尼罗河运回阿拜多斯神庙，在neshmet中的奥西里斯将在那里接受最后的净化仪式。</p>
+
+<h3 id="审判死者的奥西里斯">审判死者的奥西里斯</h3>
+
+<p>冥界统治者通常要确保邪恶和不受欢迎的灵魂不会进入他的国度生活。在法庭中，奥西里斯坐在他的王座上，手握权杖，监督申请进入乐土的人的审判过程。奥西里斯与司法的联系，或者说至少身为诚实与正直的支持者，最早在金字塔时代出现，他被称为“玛特之主”。玛特是宇宙规律的女神，后来代表着“真理”，对死者灵魂进行的审问中，所有的答案都会用“真理”衡量。奥西里斯与玛特的关联直到晚期仍然存在，卡纳克神庙中有一所Divine Adoratrice of Amun, Ankhnesneferibra（第二十六王朝）修建的宫殿，纪念Osiris Pameres的碑文中将他描述为“与玛特一体”。在奥西里斯的肖像中，他常被描绘为站立在一个底部收束为“真理”的象形文字的基座上。王室陵墓中，奥西里斯面前会摆着在一根T型平衡木，上面放着木乃伊型的偶像，附近则摆放着一艘船，船上有一只猴子在猪的头上挥舞着木棒——这是羞辱奥西里斯的弟弟和敌人塞特。他的九个信使会把恶人的灵魂切成碎片。私人墓葬的纸莎草记录表示，陪审神将代表奥西里斯，审查灵魂以及为不适合进入来世（Afterlife）Duat的灵魂判罪。符合条件的人则由荷鲁斯引领，面见加冕的奥西里斯。</p>
+
+<h2 id="奥西里斯的圣地">奥西里斯的圣地</h2>
+
+<p>由于奥西里斯的普及性，他的崇拜地点不仅限于埃及的任一地区，而是遍布尼罗河谷。Amenemose是新王国的牛群监督官（cattle overseer），卢浮宫的Amenemose石碑碑文上的奥西里斯的赞美诗列举了一系列崇拜地：</p>
+
+<p>尼罗河三角洲的莱托波利斯和赫利奥波利斯<br />
+首都孟斐斯<br />
+埃拉克雷奥波利斯，当地祭司夸口说奥西里斯陵墓处长出了一棵圣树Hermopolis。</p>
+
+<p>但是，下埃及的一处崇拜地和南部的一处崇拜地是对奥西里斯最为虔诚的圣地。</p>
+
+<p>DJEDU</p>
+
+<p>尼罗河三角洲中部的城镇，象形文字写法由两根节德柱组成。它通常被称呼为希腊名Busiris（该词在公元5世纪由希罗多德创造），衍生自埃及语“奥西里斯的房屋”，意为他的神庙。旧王朝时期侍臣陵墓中的符咒提到了这处圣地，证明了它的古老。</p>
+
+<p>IBDJU</p>
+
+<p>这是奥西里斯最重要最为古老的圣地，位于上埃及，离现在的Balliana不远。希腊语称为阿拜多斯，现今广为人知的地名。旧王朝时期部分神庙壮观的泥砖围墙至今仍旧留存。奥西里斯神庙据说在沙漠断崖附近——这是古埃及人从第一王朝 King Djer的遗迹重新解读出的，然而，阿拜多斯虔诚的奥西里斯崇拜的完整证据，是第十九王朝塞提一世统治时期修建的宏伟的神庙浮雕。描绘的每日仪式的阶段都是由国王进行——打开神龛，给里面的雕像穿上衣物和装饰品，供奉香料和食物。在神庙的背后，有一片名为Osireion的遗迹，包括一个象征性的奥西里斯的坟墓和代表原始丘（primeval mound）的建筑。阿拜多斯有一个暗示奥西里斯的清晰的标志：一根柱子支撑着伸出两根长羽毛的“蜂窝”形状。一种解释为这个标志是装着奥西里斯头颅的圣物箱——试图说明每一个崇拜中心都是奥西里斯一块尸体的埋葬地。</p>
+
+<p>卡纳克的奥西里斯</p>
+
+<p>除了普塔神庙，阿蒙神庙以北的所有属于卡纳克的区域都崇拜奥西里斯。在the Divine Adoratrices of Amun修建的神殿中存在感特别强，例如第二十五王朝Amenirdis和Shepenwapet时期，奥西里斯与神圣的鳄梨（persea）树有关。第二十六王朝，Ankhnesneferibra名下的神殿，Osiris Wenen-nofer被描绘为“供品之主”。</p>
+
+<p>托勒密二世的一块纪念碑上刻了Tiberius Osiris的王名圈“Koptos之黄金屋的主人”，让奥西里斯成为了东部沙漠金矿的保护者，为底比斯带来财富。</p>
+
+<p>BIGA的奥西里斯</p>
+
+<p>Biga岛在埃及语中被称为Senmet，在阿斯旺以南，菲莱岛爱茜丝神庙的正西方。在某段时间内被认为岛上有奥西里斯的陵墓（表明崇拜的雕像和碑文至少从第十八王朝开始出现）。奥西里斯的身体被放在鳄鱼的背上带到这里“high hill &hellip; twice hidden, twice secret”。奥西里斯的仪式与邻岛的爱茜丝节日互相关联，爱茜丝的雕像被带到Biga岛上的Abaton（最为圣洁的圣地，等同于埃及语中“纯净之丘”），与奥西里斯在一起。然而现在这处圣地的地址已无法确定，即使最新的考古成果证实了圣地建于托勒密七世，岛上也只有很少的遗迹。</p>
+
+<h2 id="普鲁塔克描写的奥西里斯传说">普鲁塔克描写的奥西里斯传说</h2>
+
+<p>希腊作家普鲁塔克（公元40-120）在作品Peri Isidos kai Osiridos，即“关于爱茜丝与奥西里斯”中留下了一段奥西里斯神话的记录，其中有一段富有见地的分析评论，掺杂了许多希腊的推测。</p>
+
+<p>奥西里斯之死</p>
+
+<p>奥西里斯和爱茜丝统治埃及，他将野蛮未开化的土地转化成了文明国度，种植庄稼，遵纪守法，崇拜神明。他的工具是歌声而非武器，这与希腊思维中的神明狄俄尼索斯相同。奥西里斯的弟弟塞特（普鲁塔克称他为提丰）招募了72名同谋和一位努比亚女王以推翻奥西里斯的政权。他们根据奥西里斯的身材尺寸做了一个精美的箱子，在酒宴上将它愉快地拿出来，赠送给尺寸合适的人。等轮到奥西里斯尝试时，同伙们合上了盖子，用溶化的铅封死了箱子，然后箱子被扔进了尼罗河Tanitic河口，冲到了地中海中。</p>
+
+<p>奥西里斯和比布鲁斯</p>
+
+<p>箱子最终被冲上了黎巴嫩比布鲁斯的海岸，被包进了石南树干内。比布鲁斯的国王砍下了那棵树用作神庙的支柱。爱茜丝取出了装着她丈夫尸体的箱子，中空的石南树则被留在比布鲁斯的她的神庙中供人崇拜。在法老的神话中并没有比布鲁斯这一段，但有些人认为普鲁塔克是想反映奥西斯在黎巴嫩的故事的起源。这个说法完全不可信。比布鲁斯的设定可能是一种对自金字塔时代到新王国时期埃及和黎巴嫩间大量的优惠木材交易（尤其是雪松）的纪念。</p>
+
+<p>奥西里斯被肢解</p>
+
+<p>普鲁塔克的奥西里斯身体分散埋葬论来自后期的埃及神话，新王国时期后才出现这一说法。爱茜丝将箱子带回尼罗河三角洲，把它放在那里，然后去Buto接她的孩子荷鲁斯（在这一版本中荷鲁斯此时已经出生）。塞特在夜晚进行狩猎，发现了箱子，于是把奥西里斯的身体切成了十四块，四散丢弃在尼罗河谷。爱茜丝找到了每一块身体，并且在每个地点都举行了一场葬礼。根据普鲁塔克的说法，这解释了为何许多神庙都声称自己有奥西里斯的坟墓。托勒密时期的神庙，例如丹德拉和埃德夫神庙的文字中，存在十四、十六或四十二块身体的说法，四十二块使得埃及每个省或行政区都拥有了一块身体。声称有奥西里斯身体碎块的地点包括：</p>
+
+<p>Sebennytos：大腿或小腿</p>
+
+<p>埃拉克雷奥波利斯：大腿、头颅、两侧腹部和两条腿</p>
+
+<p>Athribis：心脏</p>
+
+<p>阿拜多斯：头颅</p>
+
+<p>埃德夫：一条腿</p>
+
+<p>Biga岛：左腿</p>
+
+<p>爱茜丝遇到了一个难题，那就是奥西里斯的阴茎。它被塞特扔进了尼罗河，被lepidotus、phragus和oxyrhynchus鱼类撕碎吞食。爱茜丝便为奥西里斯做了一个人造器官，埃及人由此建立了一种崇拜和节日。然而在法老的传说中，奥西里斯的阴茎完好地保留了下来，被埋葬在孟斐斯。</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Isis 爱茜丝</title>
+			<link>https://sekhet-aaru.github.io/posts/isis/</link>
+			<pubDate>Sat, 26 Dec 2015 09:15:56 +0800</pubDate>
+			
+			<guid>https://sekhet-aaru.github.io/posts/isis/</guid>
+			<description>拥有极为强大的魔力的女神，象征着国王的母亲。 女神的名字的象形文字是代表王座的符号，表示着她在埃及王权传承中所处的重要地位。爱茜丝的形象为王后</description>
+			<content type="html"><![CDATA[
+
+<p>拥有极为强大的魔力的女神，象征着国王的母亲。</p>
+
+<p>女神的名字的象形文字是代表王座的符号，表示着她在埃及王权传承中所处的重要地位。爱茜丝的形象为王后模样的姿势，头带“王座”的标志或者一顶牛角日轮的王冠。名为tyet的护身符在金字塔时代已被视为神圣，自新王国时期开始成为了她的专属特殊符号。Tyet是一条束带，在前方有一个环或一个结，似乎与生命之符（ankh）有关，象征着神圣与王室力量。在《死者之书》中，tyet被描述为红碧玉所制，意味着它的第二层意义是女神的血。她作为母亲的角色时，可以变成一只母猪——尤其是the ‘Great White Sow of Heliopolis’。她还有另一奶牛的形态，以此形态诞下了孟斐斯圣牛（参见词条<code>阿匹斯</code>）。</p>
+
+<h2 id="奥西里斯-的妹妹-妻子"><code>奥西里斯</code>的妹妹-妻子</h2>
+
+<p>在赫利奥波利斯的祭司发展的系谱中，爱茜丝是<code>盖布</code>与<code>努特</code>的孩子之一。作为“奥西里斯深爱的妹妹”，她全力辅佐奥西里斯统治埃及。《金字塔铭文》中最早提及这位女神时，是她似乎预见了奥西里斯被<code>塞特</code>谋害，描述为她绝望地坐着，为她的兄长哭泣。在奥西里斯死亡后，她与她的妹妹<code>奈芙缇丝</code>化为鸢，沉浸在无尽的伤痛中。弟弟塞特将奥西里斯的尸体扔进尼罗河后，她不知疲倦地寻找着；塞特将奥西里斯分尸后抛洒在埃及各个角落，她重新拼好了奥西里斯的尸体（关于这里的细节，参见词条<code>奥西里斯</code>）。卢浮宫中的Amenemose石碑（第十八王朝）上的Great Hymn to Osiris中，爱茜丝被想象为一只鸢，用她的羽毛庇荫奥西里斯，她扇动翅膀带来的微风供他呼吸。后来她成为奥西里斯的守卫，在部分雕像中，她以人类形态站立，向前伸展手臂，手臂上长出翅膀，包围着身前的奥西里斯雕像——这清晰地证明了埃及人认为爱茜丝对她的丈夫做出的极大贡献。奥西里斯通过她的魔法使她受孕——他已经离开埃及，成为冥界的国王。</p>
+
+<h2 id="荷鲁斯-之母"><code>荷鲁斯</code>之母</h2>
+
+<p>因为国王是拥有埃及统治权的在世荷鲁斯，爱茜丝由此被视为神灵与王室间的重要联系。《金字塔铭文》中表明，统治者从他的母亲爱茜丝的胸脯吸取神圣的母乳，这就是大量爱茜丝坐在王座上哺乳膝上的荷鲁斯的雕像代表的意象。人们认为爱茜丝在尼罗河三角洲的Khemmis生下了荷鲁斯，更加加强了她与君主的联系，因为Khemmis在古埃及语中为Akh-bity，意为“下埃及国王的纸莎草丛”。在中王国时期的故事中（Papyrus Westcar），她的职责为保护王室婴儿的出生，预示着王朝的变更：爱茜丝接生了第五王朝Ruddedet产下的三位国王。</p>
+
+<p>爱茜丝试图秘密地将荷鲁斯养大，这样他最终就能为父亲的被害报仇雪恨。这种对荷鲁斯的紧密保护常在治愈孩童蝎蛰或烫伤的魔法咒文中提及。爱茜丝祈求强大的魔法（great of magic）降临帮助孩子，就好像那孩子是荷鲁斯一样。治愈烧伤的咒语，举例来说，在人乳、树胶和猫的毛发的混合物涂在受伤的孩子身上的同时念诵：在咒语中，爱茜丝得知她的儿子在沙漠中被烫伤，没有水能够为他降温，便提供帮助，她的唾液和尿液（她婉转地将其称为“我双腿间的尼罗河水”）拥有缓解疼痛的力量。</p>
+
+<h2 id="她的固执与狡猾">她的固执与狡猾</h2>
+
+<p>爱茜丝的儿子长大成人后，她在众神的法庭中为他拼命争取埃及王位的继承权。在这里她展现出了她“舌上智慧”的本性，以及对抗阻碍在她面前更为强大的神的固执。The Broad Hall of GEB展现了荷鲁斯与塞特的上诉场景，他们的行为被记录在了第二十王朝的纸莎草书上。与此相关的一条暗线是爱茜丝与她的弟弟塞特的关系。他们的血缘关系足以软化爱茜丝在她的儿子身上的决心。爱茜丝用鱼叉刺中变成河马的塞特时，塞特向她诉说他们的血缘关系，于是她取下了刺在他身体中的钩。然而这仅仅是一个短暂的失误。其后整整两章展现了爱茜丝如何用她的狡猾和魔法在审判席众神面前令塞特受辱。</p>
+
+<h3 id="爱茜丝诱使塞特坦白">爱茜丝诱使塞特坦白</h3>
+
+<p>爱茜丝在部分神灵面前获取的同情激怒了塞特，他拒绝在爱茜丝在场时进行埃及王位的诉讼。审判被移至一座岛上继续进行，严令禁止船夫载爱茜丝渡河。爱茜丝假扮成老妇人，为在岛上放牛的男孩带去食物。接着她变成一个漂亮的姑娘，引诱塞特远离法庭，她告诉塞特她十分苦恼，因为她的丈夫过世后，一个陌生人偷走了她儿子应当继承的牛群，还赶跑了她的儿子。塞特表露出的正义的愤怒令他自食苦果，爱茜丝显明了身份，塞特并没有获得多少神明的同情。</p>
+
+<h3 id="爱茜丝证实塞特的性侵罪行">爱茜丝证实塞特的性侵罪行</h3>
+
+<p>在争斗中，塞特成功侵犯了荷鲁斯。荷鲁斯带回了塞特的精液交给母亲爱茜丝作为证据。爱茜丝决定让塞特在众神面前失信，她取得了荷鲁斯的精液，将它洒在塞特院子中生长的莴苣上。塞特吃下了那些莴苣。在审判席前，荷鲁斯令他的精液从塞特头上召出，而塞特懊恼的样子显得无比荒谬。在诉讼的结尾，爱茜丝将铐上脚镣的塞特带入法庭，塞特承认了他的失败。</p>
+
+<p>在一个提及太阳神拉的章节中，爱茜丝的狡猾已经明显地涉及了法老的统治，但必须承认的是，这个故事得以留存的理由仅仅是因为一条治愈蝎蛰的精妙咒语。故事的梗概如下：</p>
+
+<blockquote>
+<p>爱茜丝计划用“比一百万个神灵更加聪慧”的方法获得拉神的秘密名字，知道这个名字的人将获得无限的力量。</p>
+
+<p>她用拉神滴落的口水混合泥土，捏成了蛇的形状。</p>
+
+<p>拉神路过那条蛇，被蛇咬伤，他痛苦地发抖，因为中毒发着高烧。</p>
+
+<p>爱茜丝提出用她的魔法减轻太阳神的痛苦，换之以他的秘密名字。</p>
+
+<p>拉试图用一连串名字糊弄爱茜丝，但她不为所动，拒绝进行治疗，直到神告诉了她真正的名字。她甚至还“加强攻势”，让毒液给拉带来更多的痛苦。</p>
+
+<p>太阳神告诉了爱茜丝他的名字，爱茜丝成为了“知晓拉神真正名字的众神之主”。</p>
+</blockquote>
+
+<p>这个故事中最为重要的部分是，拉允许爱茜丝将他的秘密名字告诉她的儿子荷鲁斯。于是通过女神无情的决心，法老身为荷鲁斯，拥有了没有任何神可以匹敌的力量。</p>
+
+<h2 id="她的圣地">她的圣地</h2>
+
+<p>爱茜丝身为普及女神，被许多神庙崇拜，其中包括：</p>
+
+<p><em>Behbeit el-Hagar</em> = ISEION 这是爱茜丝在尼罗河三角洲东北部位于杜姆亚特支流上的一个重要崇拜地。现在爱茜丝神庙的花岗岩板和女神的精致浮雕已经化为废墟。虽然它是爱茜丝早期圣地之一——《金字塔铭文》中提及其为国王提供蕴含“伟大的爱茜丝”（Isis the Great）的气息的坛装水——考古学上还未发现早于第三十王朝的建筑。</p>
+
+<p><em>Temple of Isis ‘mistress of the pyramid’ at Giza</em> 第二十一王朝，三座王后的附属金字塔中的神殿（chapel），在胡夫大金字塔的东侧。</p>
+
+<p><em>Deir el-Shelwit</em> 在Medinet Habu南面，底比斯西岸，一座小型方形神庙，建于罗马占领埃及时期。</p>
+
+<p>位于阿拜多斯的塞提一世神庙（第十九王朝） 有三个神殿及内室，分别供奉爱茜丝、荷鲁斯和奥西里斯。这座神庙中有整个法老时期最为精美详细的爱茜丝女神雕刻。</p>
+
+<p><em>Temple of Augustus at Dendera</em> 为了庆祝爱茜丝的诞生（与降雨有关的一天）而修建的小型圣地。爱茜丝在这个地区的存在归因于哈托尔，爱茜丝从她那里借得了牛角王冠。两位女神都与王权相关，所以这种关联并不奇怪。</p>
+
+<p>位于菲莱岛的爱茜丝神庙 现在被移至了Agilkia岛，这处遗迹几乎全部建于古希腊-罗马时期。它比其他埃及神庙都要古老，被用作崇拜以及祭司仪式。</p>
+
+<h3 id="其他国家的爱茜丝">其他国家的爱茜丝</h3>
+
+<p>（与黎巴嫩比布鲁斯的关系请参见词条<code>奥西里斯</code>。）在世俗体记载的文件（the Petubastis story-cycle）中，有一条深受古典希腊文学影响的传说片段，涉及了一个埃及人、Pedikhons以及统治着女战士领地的叙利亚女王Serpot。故事的高潮是他们单挑，在决斗之前，Serpot向“女人领地的女神”爱茜丝祈祷。</p>
+
+<p>关于爱茜丝崇拜在地中海和北欧地区的传播，一些罗马作家与考古学证据间存在分歧。讽刺家Juvenal AD（60-128）批判爱茜丝，嘲讽她的信徒在庆祝仪式上的冗长程序。然而，身为神明崇拜的中心，爱茜丝的人气异常之高。在其他国家，爱茜丝崇拜的重要性超过了奥西里斯。Apuleius（生于公元125年）留下了一份关于新晋信徒所经阶段的珍贵描述（但却对最后的仪式闭口不谈）。她的圣地出现在雅典卫城、提洛岛和庞贝。基督教费尽周折才消除她的崇拜的影响。</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Horus 荷鲁斯</title>
+			<link>https://sekhet-aaru.github.io/posts/horus/</link>
+			<pubDate>Sat, 26 Dec 2015 04:34:08 +0800</pubDate>
+			
+			<guid>https://sekhet-aaru.github.io/posts/horus/</guid>
+			<description>鹰神，“天空之主”，神圣王权的象征。 他的名字（埃及语为Har）的意思可能是“高的”或“遥远的”，出现于公元前3000年前王朝文明刚刚出现时，</description>
+			<content type="html"><![CDATA[
+
+<p>鹰神，“天空之主”，神圣王权的象征。</p>
+
+<p>他的名字（埃及语为Har）的意思可能是“高的”或“遥远的”，出现于公元前3000年前王朝文明刚刚出现时，王室仪轨的象形文字中。荷鲁斯第一次以完全的猎鹰形态出现是在前王朝晚期的纪念物上，例如描绘着数只神圣生物攻击城镇墙壁的调色板。在其后的埃及文明中，完全的猎鹰形态也一直出现，但鹰头人身成为了他最为主要的形象。</p>
+
+<h2 id="荷鲁斯-孩童时期">荷鲁斯：孩童时期</h2>
+
+<p>《金字塔铭文》中，荷鲁斯曾被称为“含着手指头的孩童<code>荷鲁斯</code>”。这指的是荷鲁斯的秘密出生和成长。荷鲁斯在尼罗河三角洲东北部的Khemmis出生，被藏在纸莎草丛中，所以得到了Har-hery-wadj或“在纸莎草上的荷鲁斯”的绰号。位于阿拜多斯的塞提一世（第十九王朝）神庙中，一面墙面浮雕描绘了一只鹰站在纸莎草形的柱子上。虽然未经证实，但这个意象有可能意味着，采用纸莎草作为王室建筑的柱形（最早出现于第三王朝King Djoser位于塞加拉的阶梯金字塔群中）是出于王权之神的考虑。公元一世纪，在一份以世俗体书写的指导文件（Papyrus Insinger）中，引用了“纸莎草背后的荷鲁斯”成为埃及统治者的故事，用这种意象表示厄运可被扭转。</p>
+
+<h3 id="harpokrates">HARPOKRATES</h3>
+
+<p>由埃及语Har-pa-khered（意为“孩童荷鲁斯”），希腊人创造出了“哈尔波克拉特斯”。荷鲁斯被描绘为一个年幼弱小的孩子，坐在爱茜丝的膝上，梳着儿童发型（sidelock of youth），有时吮吸着手指。在晚期王朝時期名为cippi的特殊物件上，哈尔波克拉特斯则是驱除危险生物的守护神：赤裸的孩童站在鳄鱼的背上，手中抓着蛇、蝎、狮子和羚羊。在一份关于Setne Khaemwase的财富的世俗体纸莎草记载中，提及一座位于吉夫特（Koptos）的爱茜丝和哈尔波克拉特斯神庙。虽然爱茜丝之子的形象十分突出，但哈尔波克拉特斯成为了神庙中两位神明的代表。最终，在卢克索北部的Nag’el Madamud，建起了一座神庙，供奉门图神及其配偶Raettawy、其子哈尔波克拉特斯。</p>
+
+<h3 id="harsomtus">HARSOMTUS</h3>
+
+<p>这一版本的荷鲁斯可追溯到《金字塔铭文》中的Har-mau，“统一者荷鲁斯”。代表着国王是埃及北部与南部统一的支持者。在神庙信条中，神与女神的神圣之子可以视为法老的象征，而Harsomtus仅用来填补三位一体。在埃德夫神庙中，他是荷鲁斯与哈托尔之子。类似地，在康翁波神庙（Kom-Ombo）中也有着同样的关系，Harsomtus被称作Pa-neb-tawy，或“两块土地的领主”。</p>
+
+<h2 id="荷鲁斯与国王">荷鲁斯与国王</h2>
+
+<p>伴随着古埃及神圣王权的进化，君主声称自己的统治权经过主神允许，并且自己也位于神明之列。荷鲁斯通过众神审判得到了埃及统治权，所以法老被视为坐在王座上的“活着的荷鲁斯”，处于至高的地位。</p>
+
+<p>根据都灵王表，前王朝晚期的统治者们是“荷鲁斯的追随者”。公元前3000年，上下埃及统一后，统治者<strong>是</strong>荷鲁斯本人。在开罗博物馆第一任统一埃及的统治者纳尔迈的调色板上，荷鲁斯神手握的绳子穿透了北部败者的鼻子，象征着国王在尼罗河三角洲上的胜利。从这个时期开始，王名中开始引入荷鲁斯鹰的标志，置于一个代表着城墙的长方形上。这被称作国王的serekh或proclaimer，国王的姓名写在长方形的上半部分。</p>
+
+<h2 id="荷鲁斯-爱茜丝-之子harsiese">荷鲁斯：<code>爱茜丝</code>之子Harsiese</h2>
+
+<p>荷鲁斯的这一形态强调了他作为爱茜丝与奥西里斯之子的身份。（参照这些神条目下有关荷鲁斯的部分。）《金字塔铭文》中，Harsiese负责为死去的国王执行重要的“开口”仪式。这个仪式恢复肉体的功能以前往来世（Afterlife），在葬礼时由继任君主（=荷鲁斯）进行，而死亡的国王此时成为冥界的统治者奥西里斯。图坦卡蒙（第十八王朝）的石棺墓室壁画中精巧地描绘了这个仪式，新任国王是一位年长的政治家，Ay，与年轻的图坦卡蒙没有血缘关系，或许这幅描述了仪式的壁画的意象正好证实了他的继位。与荷鲁斯的前两个形象相比，作为一个孝顺的儿子，Harsiese表达出了对奥西里斯的虔诚。</p>
+
+<h3 id="horus-iun-mutef">HORUS ‘IUN-MUTEF’</h3>
+
+<p>埃及语意为“母亲的支柱”，体现出荷鲁斯成功地继承了他父亲的王位——这也是爱茜丝小心翼翼地抚养儿子的原因。在葬礼中，死者的长子（或者葬礼祭司）身着黑豹皮，扮演Horus Iun-mutef的角色，点香，并在棺木前撒上净水。</p>
+
+<h3 id="harendotes">HARENDOTES</h3>
+
+<p>这是埃及语Har-nedj-itef“荷鲁斯，父亲的拯救者”的希腊版本。这一形态代表着他成功继承了奥西里斯，从篡位者塞特手中夺回了父亲的领土。</p>
+
+<h2 id="埃及王位的争夺">埃及王位的争夺</h2>
+
+<p>荷鲁斯长大成人后成为Harwer或Haroeris——长大的荷鲁斯已能够掌控力量。早在旧王朝时期就已有荷鲁斯从塞特手上夺取王权的设想：荷鲁斯从叔叔塞特手中取回了他父亲的房子，战胜了他的叔叔。但是，法老的说辞来源于两种神话：</p>
+
+<table>
+<thead>
+<tr>
+<th>OSIRIS CYCLE</th>
+<th>INDEPENDENT TRADITION</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>Brothers= Osiris and Seth</td>
+<td>Brothers= Horus and Seth</td>
+</tr>
+</tbody>
+</table>
+
+<p>荷鲁斯与塞特为兄弟的传说与王位的争夺，反映出了这两种崇拜的重要性。通常荷鲁斯处于支配地位，但毋庸置疑，塞特的支持者从未被完全镇压。王室拒不承认这两位神间的争斗：第一王朝King Anedjib使用Nebwy（意为“两位领主”）的头衔，视荷鲁斯与塞特为和谐关系。随后在第十二王朝，辛努塞尔特一世王座的侧面有着塞特与荷鲁斯面对面，中间隔着系着象征着埃及南北部的植物的团结符号。然而，为了明确强调荷鲁斯至高无上的地位（象征着国王自身），奥西里斯的传说吸收了部分兄弟体系中的恶意争斗，用在争夺埃及上——为了让塞特谋杀哥哥奥西里斯，塞特成为了荷鲁斯的叔叔。</p>
+
+<p>大英博物馆中的Shabaqo Stone于第二十五王朝雕刻，复刻了一份金字塔时代的记录。记录中有一段对荷鲁斯与塞特的简洁陈述。<code>盖布</code>神为裁判，原本决定将埃及平分给两位主角：塞特为上埃及王，荷鲁斯则统治下埃及，上下埃及交界处为“两块领土的分界”，也就是尼罗河三角洲的顶端、奥西里斯的溺亡之处孟斐斯。再三考虑后，盖布修改了判决，将埃及全部作为“遗产”判给了荷鲁斯。文中强调，两人都平和地接受了这个结果——塞特的芦苇与荷鲁斯的纸莎草被系在了普塔神的门上，象征着他们的和解团结。</p>
+
+<p>所幸拉美西斯五世（第二十王朝）时期的Papyrus Chester Beatty I记录了对这起审判更详尽更险恶的描述。以下是荷鲁斯对抗塞特并争取王位继承权的道路的概述。</p>
+
+<p>裁判席中的太阳神并不赞同荷鲁斯继承王位，认为他乳臭未干，更倾向于原告塞特（参见词条<code>BANEBDJEDET</code>）。</p>
+
+<p>荷鲁斯辩护道，他被骗取了属于他的合法继承财产。接着是一系列荷鲁斯与塞特试图胜过对方赢得辩诉的章节（关于塞特无意识承认罪行以及他对荷鲁斯的性侵，参见词条<code>爱茜丝</code>）。</p>
+
+<p>在一项比试中，两位神化身河马，检验他们能否在水下待三个月。爱茜丝拒绝了用鱼叉杀死塞特的机会，因此暴怒的荷鲁斯残忍地攻击了他的母亲，逃往沙漠。塞特找到了他，挖出了他的眼睛。哈托尔用瞪羚羊奶治好了荷鲁斯的眼睛。</p>
+
+<p>在另一项比试中，塞特提议用石舟比赛，荷鲁斯偷偷用松木造了一艘船，表面涂上石膏假装是石头。塞特的船长36米，完全由石头制成，沉船后他变成了河马。其他神阻止了荷鲁斯杀死塞特。</p>
+
+<p>最终在长达八十年的争斗之后，裁判将王位判给了荷鲁斯。</p>
+
+<p>荷鲁斯胜过塞特的象征（法老割开羚羊的喉咙或刺穿一只乌龟）在许多神庙浮雕中皆有体现。图坦卡蒙一手套索一手鱼叉、站在纸莎草船的镀金木雕也体现了这一点：国王正准备刺杀河马塞特。出于迷信，塞特的雕像不允许呈放在王室墓穴内。</p>
+
+<h2 id="荷鲁斯之眼">荷鲁斯之眼</h2>
+
+<p>《金字塔铭文》中曾暗示塞特在荷鲁斯双眼上造成的伤害，用于治疗的是王室的唾液。荷鲁斯复原后的眼睛（单数形式）成为了健全与完美的象征——乌加特之眼。它的象形符号是一只眼角有装饰性曲线的人眼，其下是猎鹰脸颊的标记。乌加特之眼逐渐成为了典型的保护性符号，作为护身符放在木乃伊的布条中或做成项链佩戴。在中王国时期，它被绘制在长方形棺材的侧面用于辟邪。但是，我们只能从碑文中了解到一些它所蕴含的复杂多样的意义。比如，荷鲁斯之眼可以代表：</p>
+
+<p>君主的力量<br />
+王权的概念<br />
+保护不受塞特侵害<br />
+王室净化剂<br />
+在上弦月酒节的供品？（Offerings at the festival of the waxing moon Wine. ）</p>
+
+<p>甚至有乌加特崇拜。一位名为Udjahorresne的官员，生活于公元前525年冈比西斯入侵埃及时期，他的头衔包括“荷鲁斯之眼的祭司”。</p>
+
+<h2 id="太阳神荷鲁斯">太阳神荷鲁斯</h2>
+
+<p>作为普及神（universal God），荷鲁斯被想象为一只猎鹰，翅膀为天空，右眼为太阳，左眼为月亮。从King Den（第一王朝）的统治开始，在一把象牙雕刻的梳子上，鹰翼作为一个独立的部分，表达出了对天体的想象。而鹰站在船中代表着太阳神的旅程。金字塔时代的文字证据将荷鲁斯称为“天空之主”或“东方”之神，也就是日出的领域。荷鲁斯作为太阳神，有三种形式格外重要。</p>
+
+<h3 id="harakhti">HARAKHTI</h3>
+
+<p>这个名字的意思是“地平线的荷鲁斯”，代表着神在黎明时从东方升起，在“芦苇地”沐浴。《金字塔铭文》将这一部分与君主主权联系在一起：据称国王在东方天空作为Harakhti降生。又因为akhti可以表示名词akhet的复数（意为“地平线”），文字游戏可以将其解释为国王身为Harakhti，被“两条地平线”（东边与西边）赋予力量。埃及人自然必须接受，他们的法老作为太阳神“<code>拉</code>之子”，不可能与荷鲁斯的这一部分割离开来，尤其是荷鲁斯该形态与赫利奥波利斯的太阳神结合成为Ra-Harakhti。因此，尽管辛努塞尔特一世（第十二王朝）<strong>被Harakhti指任为</strong>“领土守护者”，对法老与Harakhti同化的赞美宣传碑文仍旧保留着，例如苏丹King Piye（第二十五王朝）纪念他征服埃及的石碑。</p>
+
+<h3 id="horus-of-behdet">HORUS OF BEHDET</h3>
+
+<p>Behdet位于尼罗河三角洲东北部的湿地。《金字塔铭文》没有提及它的存在，作为荷鲁斯崇拜中心的遗迹（例如与埃德夫的关联）至今也无法确定。Horus of Behdet的象征是鹰翼日轮，它的形象无处不在——例如神庙天花板或门楣上的装饰，或墙壁浮雕与石碑的边框顶部。</p>
+
+<h3 id="harmachis">HARMACHIS</h3>
+
+<p>这个名字来自于Har-em-akhet或“地平线上的荷鲁斯”，适当地将荷鲁斯地域化为太阳神。吉萨的狮身人面像原本代表着守卫通往哈夫拉金字塔的道路，新王国时期的法老碑文将其重新解释为Harmachis望向东方的地平线（另见词条<code>HAURUN</code>）。</p>
+
+<h2 id="荷鲁斯崇拜的地区">荷鲁斯崇拜的地区</h2>
+
+<p>从历史与考古角度上看，两个最重要的圣地为Horus of Nekhen和Horus of Mesen。</p>
+
+<h3 id="horus-of-nekhen">HORUS OF NEKHEN</h3>
+
+<p>可能是与较早时期的鹰神Nekheny同化而成，荷鲁斯在早期王朝时期将该地（现在的Kom el-Ahmar）纳入囊中。直至古希腊-罗马时期，Nekhen成为了Hierakonpolis“鹰城”。开罗博物馆中精致的黄金鹰头来自于旧王朝神庙中的一座崇拜雕像。后来，在第十三王朝，一位名为Horemkauf的官员吹嘘说他是如何被委任将一个新的崇拜形象（cult image）从孟斐斯附近的王室驻地带往Nekhen。</p>
+
+<h3 id="horus-of-mesen">HORUS OF MESEN</h3>
+
+<p>这是埃德夫市旧时的名字（与手握鱼叉的荷鲁斯相关）。保存完好的宏伟的荷鲁斯神庙可追溯至托勒密王朝，但荷鲁斯圣地至少在金字塔时代原点就已经出现。浮雕描绘了荷鲁斯与他的配偶哈托尔、儿子Harsomtus观看祭拜他们的无数仪式。其中一组雕刻代表着一目神圣的戏剧，由祭司们出演，内容是荷鲁斯刺穿河马形态的塞特。这只动物被歼灭——事实上，是象征性地食用了河马形状的蛋糕——完全不顾传说中塞特免于一死，因为在这个神圣的地点，没有人能够贬损荷鲁斯的至高无上。</p>
+
+<p>荷鲁斯其他形态的圣地几乎都缺乏考古支持，比如Horus Khenty-Irty。</p>
+
+<h3 id="horus-khenty-irty">HORUS KHENTY-IRTY</h3>
+
+<p>这位鹰神从至少第四王朝起，在尼罗河三角洲西南部的Ausim（希腊名Letopolis）受到崇拜，该地旧时叫做Khem。</p>
+
+<p>最后，荷鲁斯名下仍有其它形式，在努比亚尼罗河第一瀑布以南受到崇拜。</p>
+
+<h3 id="horus-of-baki">HORUS OF BAKI</h3>
+
+<p>这是Quban要塞的旧名，控制着重要的黄金供输线。</p>
+
+<h3 id="horus-of-buhen">HORUS OF BUHEN</h3>
+
+<p>尼罗河第二瀑布的重要堡垒——在哈特谢普苏特与图特摩斯三世统治时期（第十八王朝），荷鲁斯南庙修建于此。</p>
+
+<h3 id="horus-of-miam">HORUS OF MIAM</h3>
+
+<p>这里是下努比亚的行政中心Aniba，有一座可追溯至中王国时期的荷鲁斯神庙。和其他地域性鹰神一样，Horus of Miam没有受制于他的命名地点：整个努比亚都有对他的描画——例如在阿布辛拜勒的纳菲尔塔莉神庙（第十九王朝），他与塞特分立两侧，双手举着拉美西斯二世的皇冠。</p>
+
+<hr />
+
+<p>In later periods of Egyptian history, Khaemweset was remembered as a wise man, and portrayed as the hero in a cycle of stories dating to Greco-Roman times. In these stories his name is Setne, a distortion of the real Khaemwaset&rsquo;s title as setem-priest of Ptah; modern scholars call this character &ldquo;Setne Khamwas&rdquo;.</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Seth 塞特</title>
+			<link>https://sekhet-aaru.github.io/posts/seth/</link>
+			<pubDate>Fri, 25 Dec 2015 18:18:14 +0800</pubDate>
+			
+			<guid>https://sekhet-aaru.github.io/posts/seth/</guid>
+			<description>混沌力量之神，崇拜和敌视皆存。 塞特角色的复杂性无法从他的名字的词源解释，他的名字在象形文字中被写为‘Setekh’, ‘Setesh’, ‘Su</description>
+			<content type="html"><![CDATA[
+
+<p>混沌力量之神，崇拜和敌视皆存。</p>
+
+<p>塞特角色的复杂性无法从他的名字的词源解释，他的名字在象形文字中被写为‘Setekh’, ‘Setesh’, ‘Suty’ 或 ‘Sutekh’。</p>
+
+<p>代表塞特的生物（可能是纹章学复合而成的动物）是一只吻部略微弯曲的四足动物，头顶有两只触角，尾部直立，末端有短分叉。它出现在前王朝时期的蝎子王权杖头上。塞特神可以完全以这种动物的形态出现，也可以变成有着动物头部的人类形象。</p>
+
+<p>在某种早期传统中，塞特与暴力的关联性体现于强调他在上埃及的出生。他将自己残忍地撕离母亲努特的身体，而诞生地点Ombos–Naqada地区成为他在南部的主要圣地。在《金字塔铭文》中，法老的力量被称作‘Seth of Nubet’，命名自他的上埃及神庙所处地点。塞特的名字与埃及语中“金”相似，使得法老的 “金<code>荷鲁斯</code>” 王衔被另解为“荷鲁斯在the one of Nubet之上”，也就是塞特之上。在埃及历中，他的生日永远被视为不吉之日。作为与其他国家有所关联的神，他拥有身为闪米特神明的配偶<code>阿斯塔特</code>和<code>阿纳特</code>。与他结合的埃及女神则是他的妹妹<code>奈芙缇丝</code>。</p>
+
+<h2 id="塞特-王权">塞特：王权</h2>
+
+<p>尽管在埃及文献中通常对塞特抱以负面印象，在尼罗河三角洲的东北部以及上埃及Ombos–Naqada地区，人们对他一直致以高度的崇敬。埃及社会的上流阶层中也有他的信徒。自公元前3000年埃及统一，统治者崇拜一直以荷鲁斯为中心，但在第二王朝Peribsen统治时期，Peribsen并没有在serekh<sup class="footnote-ref" id="fnref:1"><a href="#fn:1">1</a></sup>登基名中使用鹰神之名，而是将自己作为塞特的先驱。他的继任者Khasekhemwy在serekh上将两位神明合二为一，或许是表示两种崇拜的和解。然而，在同一统治期，塞特连这种合并的尊崇也彻底失去，再也没有得到过相同的荣耀。不过其后在王室的支持下，塞特的名字及对他的崇敬又反复出现：</p>
+
+<p>第十二王朝<br />
+辛努塞尔特一世雕像王座的侧面有着塞特与荷鲁斯面对面、被象征着统一的符号分开的雕刻。</p>
+
+<p>第十八王朝<br />
+图特摩斯三世自称为‘beloved of Seth’。</p>
+
+<p>第十九王朝<br />
+统治者的祖先居住于以塞特崇拜为主的尼罗河三角洲。有两位法老的姓名为‘Sety’或‘Sethite’。奥龙特斯河卡迭石战役中的拉美西斯二世像极了战争之神塞特（<code>BAAL</code> on the battlefield）。在同一统治时期，法老与此前的强敌赫梯签署的协议中，塞特被等同于另一位外邦神，这份协议被封印在一块银板中，上面雕刻着“天空之神”塞特，也就是赫梯的风暴之神。</p>
+
+<p>第二十王朝<br />
+法老Setnakht（意为“塞特是强大的”）被称作<code>KHEPRI</code>-Seth，为王室叛乱军的征服者。</p>
+
+<h2 id="塞特-敌人">塞特：敌人</h2>
+
+<p>从《金字塔铭文》时期开始，塞特谋杀<code>奥西里斯</code>以及他与<code>荷鲁斯</code>敌对的传说开始流行。描述埃及王位邪恶争夺的文献中提及荷鲁斯如何扯下塞特的前足和睾丸。塞特被施以永远将奥西里斯托在肩上的惩罚，他的追随者的头颅则被献给国王。但是，在纸莎草记录的荷鲁斯与塞特争斗的高潮中，显然一开始塞特拥有强大的支持者：太阳神倾向于塞特，因为塞特较为年长。当太阳神开始同情爱茜丝时，塞特的暴戾显露了出来——他威胁说如果不将爱茜丝驱逐出会议，他将每天用他4500磅重的权杖斩杀一位神。最终塞特失去了埃及的王位，但太阳神仍旧对他保有支持。（关于塞特的谋杀，参见词条奥西里斯；关于争斗与审判的细节，参见词条爱茜丝与荷鲁斯。）由于塞特能够造成的剧变和混乱，希腊人将他视为叛神提丰。</p>
+
+<h2 id="太阳舟与冥界的塞特">太阳舟与冥界的塞特</h2>
+
+<p>在诸神将埃及王位判决给荷鲁斯之后，太阳神拉宣布塞特将与他一同，作为他的儿子，成为天空雷电之神。在《死者之书》中，“北方天空之主”塞特负责乌云与风暴，历史文献中也有记载：拉美西斯二世（第二十王朝）商定与赫梯国王的女儿政治联姻，公主从黎巴嫩前往埃及，但路途受阻。拉美西斯二世向塞特祈求去除阻碍行程的雨雪和寒冷，于是塞特让天空放晴，气温回暖。</p>
+
+<p>太阳神拉沉入西方地平线后将面临险境。大蛇<code>阿波菲斯</code>试图吞食太阳，但站在船首的塞特用矛刺穿蜷曲的毒蛇。这个意象被拉美西斯三世（第二十王朝）借用，在西底比斯的Medinet Habu修建的葬祭殿的北墙上，用以描绘他击败海上民族的画面。</p>
+
+<p>在冥界中，塞特则是避之不及的恐怖存在。在中王国和新王国的墓葬文字中，塞特通常栖居在黑暗阴沉的地段，抓捕亡灵，吞食腐物。他的同伴是在尼罗河三角洲<code>奥西里斯</code>的城镇Busiris上被屠杀的山羊，羊血用于肥沃土壤。</p>
+
+<h2 id="与塞特相关的动物">与塞特相关的动物</h2>
+
+<p>特定生物在神庙中被象征性地献祭，以表示对塞特的征服。其中之一为沙漠羚羊，经常出现法老将要割开羚羊喉咙的意象。在早期文学中，代表塞特被献祭的则是红色公牛。相反地，在荷鲁斯崇拜中，猪被人憎恶，不被承认为祭祀仪式的祭品：《死者之书》中，太阳神命令荷鲁斯看向一只黑色公猪（=塞特），荷鲁斯因此受到强烈的刺激，失去了知觉。从此在荷鲁斯崇拜中，猪被视为禁忌。</p>
+
+<p>在埃及宗教中（参见词条<code>TAWERET</code>）河马是较为温和的角色，但它也可能造成破坏性的现象，例如打翻纸莎草船和踩坏大麦。所以它是塞特，且必须被杀死。早在第一王朝就已出现王室狩猎河马，象征着荷鲁斯对塞特的胜利。旧王朝时期，大臣的墓室墙壁以狩猎河马为主题，意在为死者重塑生活景象，因为死者会留有这段记忆。但即使这只是对一种“运动”的描绘，它仍旧包含着与塞特相关的隐藏含义。埃德夫神庙中的一面墙壁上，祭司们剖开一只河马代表着塞特的死亡，并且会象征性地食用河马蛋糕以确认他不复存在（参见词条荷鲁斯）。</p>
+
+<p>塞特的其它象征还包括鳄鱼：在他谋害奥西里斯后，<code>盖布</code>将他变成了一条鳄鱼。在埃及文明的最后几个世纪，Papyrus Jumilhac给出了一个原因论神话（an aetiological myth）<sup class="footnote-ref" id="fnref:2"><a href="#fn:2">2</a></sup>，说明了黑豹是如何被刻上印记：阿努比斯用烙铁将烙印烙在了变成黑豹的塞特身上。中王国时期起，一种被称为hiu的生物也代表着塞特：一头大叫的驴或者是一条长着驴的脑袋的蛇。在Ptolemaic hieroglyphs<sup class="footnote-ref" id="fnref:3"><a href="#fn:3">3</a></sup>中，这头驴被匕首刺入背部杀死。绞死鹅的仪式也用于象征塞特的死亡：在金字塔时代，一位名叫Khenmu的屠宰大师，他的头衔中有一些神秘的短语，描述自己绞杀“沙漠之鸟”破除“黑暗”，似乎就是指这种仪式。</p>
+<div class="footnotes">
+
+<hr />
+
+<ol>
+<li id="fn:1">A serekh was an ornamental vignette combining a view of a palace facade and a plan (top view) of the royal courtyard.
+ <a class="footnote-return" href="#fnref:1"><sup>[return]</sup></a></li>
+<li id="fn:2">An etiological myth, or origin myth, is a myth intended to explain the origins of cult practices, natural phenomena, proper names and the like.
+ <a class="footnote-return" href="#fnref:2"><sup>[return]</sup></a></li>
+<li id="fn:3">The designation “Ptolemaic hieroglyphs” is used by Egyptologists to refer to the script employed by the scribes of Egyptian temples after the conquest of Egypt by Alexander the Great until the end of the second century ad.
+ <a class="footnote-return" href="#fnref:3"><sup>[return]</sup></a></li>
+</ol>
+</div>
+]]></content>
+		</item>
+		
+	</channel>
 </rss>
