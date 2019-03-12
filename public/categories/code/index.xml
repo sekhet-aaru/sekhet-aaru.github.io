@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Code on 苇原</title>
+    <link>https://sekhet-aaru.github.io/categories/code/</link>
+    <description>Recent content in Code on 苇原</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-hans</language>
+    <lastBuildDate>Wed, 17 Oct 2018 19:43:12 +0800</lastBuildDate>
+    
+	<atom:link href="https://sekhet-aaru.github.io/categories/code/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hugo笔记</title>
+      <link>https://sekhet-aaru.github.io/posts/hugo/</link>
+      <pubDate>Wed, 17 Oct 2018 19:43:12 +0800</pubDate>
+      
+      <guid>https://sekhet-aaru.github.io/posts/hugo/</guid>
+      <description>GitHub Repository New repostory &amp;gt; Repostory name: &amp;lt;yourusername&amp;gt; SSH Key $ cd ~/.ssh $ ssh-keygen -t rsa -C &amp;lt;youremail&amp;gt; Generating public/private rsa key pair. Enter file in which to save the key (/Users/your_user_directory/.ssh/id_rsa): Enter passphrase (empty for no passphrase): &amp;lt;passphrase&amp;gt; Enter same passphrase again: &amp;lt;passphrase&amp;gt; 这步做完我才发现文件夹里不知道为什么有个去年生成的</description>
+    </item>
+    
+  </channel>
+</rss>
