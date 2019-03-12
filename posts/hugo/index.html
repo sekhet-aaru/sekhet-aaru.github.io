@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="chrome=1">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="referrer" content="no-referrer">
+
+<meta name="description" content="杂学阅读笔记">
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:domain" content="https://sekhet-aaru.github.io/">
+
+<meta name="twitter:image" content="reeds.jpg">
+<meta name="twitter:title" property="og:title" itemprop="title name" content="苇原">
+<meta name="twitter:description" property="og:description" itemprop="description" content="杂学阅读笔记">
+<meta name="og:type" content="website">
+<meta name="og:url" content="https://sekhet-aaru.github.io/">
+<meta name="og:image" itemprop="image primaryImageOfPage" content="reeds.jpg">
+
+<link rel="icon" type="image/png" href="https://sekhet-aaru.github.io/favicon.png" id="favicon">
+<link rel="apple-touch-icon" href="https://sekhet-aaru.github.io/favicon.png">
+
+<link rel="stylesheet" href="https://sekhet-aaru.github.io/css/style.css">
+
+<link href="https://sekhet-aaru.github.io/css/custom.css" rel="stylesheet">
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Didact+Gothic">
+<link href="https://fonts.googleapis.com/earlyaccess/notosansscsliced.css" rel="stylesheet">
+
+<link href="https://cdn.jsdelivr.net/npm/highlight.js@9.12.0/styles/hybrid.css" rel="stylesheet">
+<script async src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.12.0/build/highlight.min.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+
+
+    
+
+    
+    
+    
+    <title>
+        
+        Hugo笔记
+        
+    </title>
+</head>
+
+<body>
+    <div class="wrap">
+        <div class="section" id="title">Hugo笔记</div>
+
+        
+<div class="post-info">
+    Wed Oct 17, 2018 &#183; 779 words
+    
+    
+    <ul id="tags">
+        
+            <li><a href="https://sekhet-aaru.github.io/tags/hugo">Hugo</a></li>
+        
+    </ul>
+    
+</div>
+<div class="section" id="content">
+    
+
+<h2 id="github-repository">GitHub Repository</h2>
+
+<p>New repostory &gt; Repostory name: &lt;yourusername&gt;</p>
+
+<h2 id="ssh-key">SSH Key</h2>
+
+<pre><code>$ cd ~/.ssh
+$ ssh-keygen -t rsa -C &lt;youremail&gt;
+Generating public/private rsa key pair.
+Enter file in which to save the key (/Users/your_user_directory/.ssh/id_rsa): 
+Enter passphrase (empty for no passphrase): &lt;passphrase&gt;
+Enter same passphrase again: &lt;passphrase&gt;
+</code></pre>
+
+<p>这步做完我才发现文件夹里不知道为什么有个去年生成的key……算了。</p>
+
+<p>把id_rsa.pub文件里的内容添加到Account Settings &gt; SSH Public keys &gt; add another public keys</p>
+
+<pre><code>git config user.name &lt;username&gt;
+git config user.email &lt;email&gt;
+</code></pre>
+
+<p>多账号千万不要瞎用<code>--global</code>……<br />
+<code>git config --list</code>可以检查当前账号。</p>
+
+<h2 id="hugo">Hugo</h2>
+
+<p>下载<a href="https://github.com/gohugoio/hugo/releases" target="_blank">Hugo</a>，添加到环境变量。</p>
+
+<pre><code class="language-bash">hugo new site &lt;yoursitefolder&gt;
+cd &lt;yoursitefolder&gt;
+git init
+git remote add origin git@github.com:sekhet-aaru/sekhet-aaru.github.io.git
+</code></pre>
+
+<h3 id="添加模板">添加模板</h3>
+
+<pre><code class="language-bash">git submodule add https://github.com/vickylai/hugo-theme-sam.git themes/sam
+</code></pre>
+
+<p>模板可以用clone。添加为submodule利于更新。</p>
+
+<h3 id="基本设置">基本设置</h3>
+
+<p><code>params</code>是模板参数。</p>
+
+<pre><code class="language-toml">baseURL = &quot;https://sekhet-aaru.github.io/&quot;
+languageCode = &quot;zh-CN&quot;
+defaultContentLanguage = &quot;zh-CN&quot;
+title = &quot;苇原&quot;
+theme = &quot;sam&quot;
+hasCJKLanguage = true
+enableEmoji = true
+enableRobotsTXT = true
+
+[params]
+    author = &quot;lanee&quot;
+    description = &quot;杂学阅读笔记&quot;
+    homepage = &quot;Home&quot;
+    footerText = &quot;© lanee 2018 | Powered by [Hugo](https://gohugo.io/) | Theme based on [Sam](https://github.com/vickylai/hugo-theme-sam)&quot;
+
+[permalinks]
+    post = &quot;/:title/&quot;
+
+[blackfriday]
+    hrefTargetBlank = true
+
+[[params.mainMenu]]
+    link = &quot;/posts&quot;
+    text = &quot;Notes&quot;
+
+[[params.mainMenu]]
+    link = &quot;/code&quot;
+    text = &quot;Code&quot;
+
+[[params.mainMenu]]
+    link = &quot;/about&quot;
+    text = &quot;About&quot;
+</code></pre>
+
+<p>Hugo markdown的hard line breaks问题一箩筐，被迫关闭。我至今没见过没有坑的markdown parser，我竟然还没有被劝退。</p>
+
+<h3 id="新建页面">新建页面</h3>
+
+<pre><code class="language-bash">hugo new about.md
+hugo new posts/post-title.md
+</code></pre>
+
+<h3 id="front-matter">Front Matter</h3>
+
+<pre><code class="language-toml">title: &quot;Hugo笔记&quot;
+date: 2018-10-17T19:43:12+08:00
+showDate: false
+draft: false
+tags: [&quot;&quot;,&quot;&quot;]
+categories: [&quot;&quot;,&quot;&quot;]
+keywords: [&quot;&quot;,&quot;&quot;]
+</code></pre>
+
+<h3 id="本地预览">本地预览</h3>
+
+<pre><code class="language-bash">hugo server
+</code></pre>
+
+<p>基本上是即时预览，有时候会出现不同程度的延迟，原因不明。</p>
+
+<h3 id="生成页面">生成页面</h3>
+
+<pre><code class="language-bash">hugo
+</code></pre>
+
+<p>生成内容在public文件夹下。</p>
+
+<p>总而言之关于Hugo的部分多看几遍官方文档，很烦我知道。</p>
+
+<h2 id="提交">提交</h2>
+
+<p>把public下的内容提交到GitHub。cd错了请清空重来。</p>
+
+<pre><code class="language-bash">git submodule add -b master git@github.com:sekhet-aaru/sekhet-aaru.github.io.git public
+cd public
+git add .
+git commit -m &lt;必填&gt;
+git push origin master
+</code></pre>
+
+<p>也可以用GitHub Desktop clone到本地，然后把public下内容复制过去再GitHub Desktop同步。但我觉得这太多此一举了。</p>
+
+<p>于是在git commit和git push上栽了一个小时。</p>
+
+<hr />
+
+<p>参考列表：</p>
+
+<ol>
+<li><a href="http://www.cnfeat.com/blog/2014/05/11/how-to-build-a-blog/" target="_blank">如何搭建一个独立博客——简明 GitHub Pages与 jekyll 教程</a></li>
+<li><a href="https://mikoto10032.github.io/post/程序员那些事/github-io配合hugo搭建个人静态博客/" target="_blank">GitHub IO配合HuGo搭建个人静态博客</a></li>
+<li><a href="https://www.jianshu.com/p/58c644011f7d" target="_blank">使用Hugo+Github Pages建置Blog</a></li>
+<li><a href="https://blog.olowolo.com/post/hugo-quick-start/" target="_blank">Hugo 从入门到会用</a></li>
+</ol>
+
+</div>
+
+
+        
+<div class="section bottom-menu">
+    
+<hr />
+<p>
+
+
+    
+        <a href="/posts">Back</a>
+        
+            &#183;
+        
+    
+
+    
+        
+            <a href="/posts/">
+                Posts
+            </a>
+        
+    
+    
+        
+            &#183; 
+            <a href="/sources/">
+                Sources
+            </a>
+        
+            &#183; 
+            <a href="/about">
+                About
+            </a>
+        
+    
+    &#183; 
+    <a href="https://sekhet-aaru.github.io/">
+        Home
+    </a>
+
+</p>
+</div>
+
+
+        <div class="section footer">© 2018 lanee | Powered by <a href="https://gohugo.io/" target="_blank">Hugo</a> | Theme based on <a href="https://github.com/vickylai/hugo-theme-sam" target="_blank">Sam</a></div>
+    </div>
+</body>
+
+</html>
