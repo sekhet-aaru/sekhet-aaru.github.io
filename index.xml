@@ -39,15 +39,6 @@
     </item>
     
     <item>
-      <title>About</title>
-      <link>https://sekhet-aaru.github.io/about/</link>
-      <pubDate>Tue, 16 Oct 2018 23:52:40 +0800</pubDate>
-      
-      <guid>https://sekhet-aaru.github.io/about/</guid>
-      <description>杂学阅读笔记，兼Git操作学习。</description>
-    </item>
-    
-    <item>
       <title>Haurun</title>
       <link>https://sekhet-aaru.github.io/posts/haurun/</link>
       <pubDate>Sun, 14 Oct 2018 03:19:36 +0800</pubDate>
@@ -90,6 +81,24 @@
       
       <guid>https://sekhet-aaru.github.io/posts/aten/</guid>
       <description>太阳神，在法老Akhenaton（第十八王朝）的统治期间达到顶峰，成为普及神且几乎为唯一神。 阿顿不容错认的形象由一个日轮以及日轮下部弧形上的</description>
+    </item>
+    
+    <item>
+      <title>「Oyster」</title>
+      <link>https://sekhet-aaru.github.io/posts/oyster/</link>
+      <pubDate>Mon, 27 Aug 2018 03:51:12 +0800</pubDate>
+      
+      <guid>https://sekhet-aaru.github.io/posts/oyster/</guid>
+      <description>A template inspired by Kaiba Corporation. The world is your oyster. DemoHomeEntryArchiveAcknowledgement Pure Drawer FC2ブログにsimplepagination.js FC2ブログ用の軽量なページネーションを作ったよFC2カウン</description>
+    </item>
+    
+    <item>
+      <title>「MyOpera」</title>
+      <link>https://sekhet-aaru.github.io/posts/myopera/</link>
+      <pubDate>Tue, 24 Jul 2018 23:54:40 +0800</pubDate>
+      
+      <guid>https://sekhet-aaru.github.io/posts/myopera/</guid>
+      <description>A template based on My Opera Community. Made to Discover. Demo Home Entry Archive Acknowledgment Google Fonts – Noto Serif SC Opera图标和猫来自My Opera Community默认</description>
     </item>
     
     <item>
@@ -144,6 +153,36 @@
       
       <guid>https://sekhet-aaru.github.io/posts/seth/</guid>
       <description>混沌力量之神，崇拜和敌视皆存。 塞特角色的复杂性无法从他的名字的词源解释，他的名字在象形文字中被写为‘Setekh’, ‘Setesh’, ‘Su</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://sekhet-aaru.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sekhet-aaru.github.io/about/</guid>
+      <description>杂学阅读笔记，兼Git操作学习。</description>
+    </item>
+    
+    <item>
+      <title>Artwork</title>
+      <link>https://sekhet-aaru.github.io/artwork/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sekhet-aaru.github.io/artwork/</guid>
+      <description>Simply fanart.
+      </description>
+    </item>
+    
+    <item>
+      <title>Theme</title>
+      <link>https://sekhet-aaru.github.io/theme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sekhet-aaru.github.io/theme/</guid>
+      <description>「MyOpera」
+  「Oyster」
+   </description>
     </item>
     
   </channel>

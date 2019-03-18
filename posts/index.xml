@@ -407,6 +407,80 @@ git push origin master</code></pre></div>
 		</item>
 		
 		<item>
+			<title>「Oyster」</title>
+			<link>https://sekhet-aaru.github.io/posts/oyster/</link>
+			<pubDate>Mon, 27 Aug 2018 03:51:12 +0800</pubDate>
+			
+			<guid>https://sekhet-aaru.github.io/posts/oyster/</guid>
+			<description>A template inspired by Kaiba Corporation. The world is your oyster. DemoHomeEntryArchiveAcknowledgement Pure Drawer FC2ブログにsimplepagination.js FC2ブログ用の軽量なページネーションを作ったよFC2カウン</description>
+			<content type="html"><![CDATA[<p><p>A template inspired by Kaiba Corporation. </p>
+<p><img src="/img/oyster.jpg"></p>
+<blockquote>
+<p align="center">The world is your oyster.</p>
+</blockquote>
+<h2>Demo</h2><ul><li><a href="https://impostorsyndrome.blog.fc2.com/?template=Oyster&amp;index" target="_blank">Home</a></li><li><a href="https://impostorsyndrome.blog.fc2.com/?template=Oyster&amp;no=45" target="_blank">Entry</a></li><li><a href="https://impostorsyndrome.blog.fc2.com/?template=Oyster&amp;all" target="_blank">Archive</a></li></ul><h2>Acknowledgement</h2>
+<ul>
+<li><a href="https://mac81.github.io/pure-drawer/" target="_blank">Pure Drawer</a></li>
+<li><a href="http://ymmij.blog.fc2.com/blog-entry-8.html" target="_blank"><strike>FC2ブログにsimplepagination.js</strike></a></li>
+<li><a href="https://hatenachips.blog.fc2.com/blog-entry-479.html" target="_blank">FC2ブログ用の軽量なページネーションを作ったよ</a></li><li><a href="http://jabnz.blog69.fc2.com/blog-entry-758.html">FC2カウンターの読み込みを遅らせる</a></li><li><a href="https://grsmto.github.io/simplebar/" target="_blank">SimpleBar</a></li>
+<li><a href="https://github.com/cferdinandi/smooth-scroll" target="_blank">Smooth Scroll</a></li>
+<li><a href="https://daneden.github.io/animate.css/" target="_blank">Animate.css</a></li><li>
+<a href="https://codemyui.com/git-kraken-inspired-rotate-loading-animation/" target="_blank"><strike>Loading animation</strike></a></li><li><a href="https://fonts.google.com/specimen/Encode+Sans+Semi+Expanded" target="_blank">Google Font - Encode Sans Semi Expanded</a></li><li><a href="https://material.io/tools/icons/" target="_blank">Icons - Material Design</a></li><li><a href="https://www.freepik.com/free-vector/technological-background-with-blue-lines-and-dots_1080867.htm" target="_blank">Freepik</a></li></ul></p>
+
+<p><h2>To do</h2>
+<ul>
+<li><s>&lt;a&gt; colour</s></li>
+<li><s>read more style</s></li>
+<li><s>comment tb num</s></li>
+<li><s>smooth scroll</s></li>
+<li>side menu slidedown js→css (?</li>
+<li><s>reduce svg</s></li>
+<li><s>a lot of corners</s></li>
+<li><s>&lt;!&ndash;relate_list_area—&gt; style</s></li>
+<li><s>commentbox</s></li>
+<li><s>z-index</s></li>
+<li><s>&lt;head&gt; title</s></li>
+<li><s>search box</s></li>
+<li><s>some good icons</s></li>
+<li><s>css size</s></li>
+<li><s>サムネイルつきページ送り</s></li>
+<li><s>fix comment</s></li></ul></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>「MyOpera」</title>
+			<link>https://sekhet-aaru.github.io/posts/myopera/</link>
+			<pubDate>Tue, 24 Jul 2018 23:54:40 +0800</pubDate>
+			
+			<guid>https://sekhet-aaru.github.io/posts/myopera/</guid>
+			<description>A template based on My Opera Community. Made to Discover. Demo Home Entry Archive Acknowledgment Google Fonts – Noto Serif SC Opera图标和猫来自My Opera Community默认</description>
+			<content type="html"><![CDATA[
+
+<p>A template based on My Opera Community.</p>
+
+<p><img src="/img/myopera.jpg" alt="" /></p>
+
+<blockquote><p align="center">Made to Discover.</p></blockquote>
+
+<h2 id="demo">Demo</h2>
+
+<ul>
+<li><a href="https://impostorsyndrome.blog.fc2.com/?template=MyOpera" target="_blank">Home</a></li>
+<li><a href="https://impostorsyndrome.blog.fc2.com/?template=MyOpera&amp;no=45" target="_blank">Entry</a></li>
+<li><a href="https://impostorsyndrome.blog.fc2.com/?template=MyOpera&amp;all" target="_blank">Archive</a></li>
+</ul>
+
+<h2 id="acknowledgment">Acknowledgment</h2>
+
+<ul>
+<li><a href="https://fonts.google.com/specimen/Noto+Serif+SC" target="_blank">Google Fonts – Noto Serif SC</a></li>
+<li>Opera图标和猫来自My Opera Community默认</li>
+</ul>
+]]></content>
+		</item>
+		
+		<item>
 			<title>Astarte 阿斯塔特</title>
 			<link>https://sekhet-aaru.github.io/posts/astarte/</link>
 			<pubDate>Sat, 10 Sep 2016 18:51:24 +0800</pubDate>
