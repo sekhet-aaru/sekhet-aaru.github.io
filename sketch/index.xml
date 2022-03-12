@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sketch on 苇原</title>
-    <link>https://sekhet-aaru.github.io/sketch/</link>
+    <link>https://aaru.alltale.cyou/sketch/</link>
     <description>Recent content in Sketch on 苇原</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-hans</language>
     
-	<atom:link href="https://sekhet-aaru.github.io/sketch/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://aaru.alltale.cyou/sketch/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

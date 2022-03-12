@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 苇原</title>
-    <link>https://sekhet-aaru.github.io/tags/</link>
+    <link>https://aaru.alltale.cyou/tags/</link>
     <description>Recent content in Tags on 苇原</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-hans</language>
     <lastBuildDate>Sat, 01 Jan 2022 01:15:44 +0800</lastBuildDate>
     
-	<atom:link href="https://sekhet-aaru.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://aaru.alltale.cyou/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://sekhet-aaru.github.io/tags/</link>
+      <link>https://aaru.alltale.cyou/tags/</link>
       <pubDate>Sat, 01 Jan 2022 01:15:44 +0800</pubDate>
       
-      <guid>https://sekhet-aaru.github.io/tags/</guid>
+      <guid>https://aaru.alltale.cyou/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>https://sekhet-aaru.github.io/tags/hugo/</link>
+      <link>https://aaru.alltale.cyou/tags/hugo/</link>
       <pubDate>Wed, 17 Oct 2018 19:43:12 +0800</pubDate>
       
-      <guid>https://sekhet-aaru.github.io/tags/hugo/</guid>
+      <guid>https://aaru.alltale.cyou/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>人工机翻</title>
-      <link>https://sekhet-aaru.github.io/tags/%E4%BA%BA%E5%B7%A5%E6%9C%BA%E7%BF%BB/</link>
+      <link>https://aaru.alltale.cyou/tags/%E4%BA%BA%E5%B7%A5%E6%9C%BA%E7%BF%BB/</link>
       <pubDate>Sat, 20 Oct 2018 01:15:44 +0800</pubDate>
       
-      <guid>https://sekhet-aaru.github.io/tags/%E4%BA%BA%E5%B7%A5%E6%9C%BA%E7%BF%BB/</guid>
+      <guid>https://aaru.alltale.cyou/tags/%E4%BA%BA%E5%B7%A5%E6%9C%BA%E7%BF%BB/</guid>
       <description></description>
     </item>
     
