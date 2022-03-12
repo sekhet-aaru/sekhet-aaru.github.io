@@ -58,7 +58,17 @@
   </url>
   
   <url>
+    <loc>https://aaru.alltale.cyou/theme/oyster/</loc>
+    <lastmod>2018-08-27T03:51:12+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://aaru.alltale.cyou/hiddenposts/myopera/</loc>
+    <lastmod>2018-07-24T23:54:40+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaru.alltale.cyou/theme/myopera/</loc>
     <lastmod>2018-07-24T23:54:40+08:00</lastmod>
   </url>
   
@@ -93,13 +103,13 @@
   </url>
   
   <url>
-    <loc>https://aaru.alltale.cyou/sources/</loc>
+    <loc>https://aaru.alltale.cyou/tags/</loc>
     <lastmod>2022-01-01T01:15:44+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://aaru.alltale.cyou/tags/</loc>
+    <loc>https://aaru.alltale.cyou/sources/</loc>
     <lastmod>2022-01-01T01:15:44+08:00</lastmod>
     <priority>0</priority>
   </url>
@@ -172,6 +182,7 @@
   
   <url>
     <loc>https://aaru.alltale.cyou/theme/</loc>
+    <lastmod>2018-08-27T03:51:12+08:00</lastmod>
   </url>
   
   <url>
