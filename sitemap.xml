@@ -1,210 +1,134 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://aaru.alltale.cyou/fanfic/pova/</loc>
-    <lastmod>2022-01-01T01:15:44+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aaru.alltale.cyou/fanfic/kuebiko/</loc>
-    <lastmod>2022-01-01T01:15:44+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aaru.alltale.cyou/hiddenposts/anat/</loc>
-    <lastmod>2018-10-20T01:15:44+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aaru.alltale.cyou/hiddenposts/apis/</loc>
-    <lastmod>2018-10-19T00:55:57+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aaru.alltale.cyou/hiddenposts/hugo/</loc>
-    <lastmod>2018-10-17T19:43:12+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aaru.alltale.cyou/hiddenposts/haurun/</loc>
-    <lastmod>2018-10-14T03:19:36+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aaru.alltale.cyou/hiddenposts/banebdjedet/</loc>
-    <lastmod>2018-10-14T02:09:41+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aaru.alltale.cyou/hiddenposts/taweret/</loc>
-    <lastmod>2018-10-14T02:05:08+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aaru.alltale.cyou/hiddenposts/wadjet/</loc>
-    <lastmod>2018-10-14T02:04:15+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aaru.alltale.cyou/hiddenposts/aten/</loc>
-    <lastmod>2018-10-13T18:16:07+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aaru.alltale.cyou/hiddenposts/oyster/</loc>
-    <lastmod>2018-08-27T03:51:12+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aaru.alltale.cyou/theme/oyster/</loc>
-    <lastmod>2018-08-27T03:51:12+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aaru.alltale.cyou/hiddenposts/myopera/</loc>
-    <lastmod>2018-07-24T23:54:40+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aaru.alltale.cyou/theme/myopera/</loc>
-    <lastmod>2018-07-24T23:54:40+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aaru.alltale.cyou/hiddenposts/astarte/</loc>
-    <lastmod>2016-09-10T18:51:24+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aaru.alltale.cyou/hiddenposts/atum/</loc>
-    <lastmod>2015-12-28T06:45:33+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aaru.alltale.cyou/hiddenposts/osiris/</loc>
-    <lastmod>2015-12-27T20:58:04+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aaru.alltale.cyou/hiddenposts/isis/</loc>
-    <lastmod>2015-12-26T09:15:56+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aaru.alltale.cyou/hiddenposts/horus/</loc>
-    <lastmod>2015-12-26T04:34:08+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aaru.alltale.cyou/hiddenposts/seth/</loc>
-    <lastmod>2015-12-25T18:18:14+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aaru.alltale.cyou/tags/</loc>
-    <lastmod>2022-01-01T01:15:44+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aaru.alltale.cyou/sources/</loc>
-    <lastmod>2022-01-01T01:15:44+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aaru.alltale.cyou/about/</loc>
-  </url>
-  
-  <url>
-    <loc>https://aaru.alltale.cyou/artwork/</loc>
-  </url>
-  
   <url>
     <loc>https://aaru.alltale.cyou/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aaru.alltale.cyou/categories/code/</loc>
-    <lastmod>2018-10-17T19:43:12+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aaru.alltale.cyou/comic/</loc>
-  </url>
-  
-  <url>
-    <loc>https://aaru.alltale.cyou/fanfic/</loc>
-    <lastmod>2022-01-01T01:15:44+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aaru.alltale.cyou/hiddenposts/</loc>
-    <lastmod>2018-10-20T01:15:44+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aaru.alltale.cyou/tags/hugo/</loc>
-    <lastmod>2018-10-17T19:43:12+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aaru.alltale.cyou/illust/</loc>
-  </url>
-  
-  <url>
-    <loc>https://aaru.alltale.cyou/sketch/</loc>
-  </url>
-  
-  <url>
-    <loc>https://aaru.alltale.cyou/sources/</loc>
-    <lastmod>2022-01-01T01:15:44+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+    <lastmod>2019-06-30T01:15:44+08:00</lastmod>
+  </url><url>
+    <loc>https://aaru.alltale.cyou/categories/fanfic/</loc>
+    <lastmod>2019-06-30T01:15:44+08:00</lastmod>
+  </url><url>
     <loc>https://aaru.alltale.cyou/tags/</loc>
-    <lastmod>2022-01-01T01:15:44+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+    <lastmod>2019-06-30T01:15:44+08:00</lastmod>
+  </url><url>
+    <loc>https://aaru.alltale.cyou/text/</loc>
+    <lastmod>2019-06-30T01:15:44+08:00</lastmod>
+  </url><url>
+    <loc>https://aaru.alltale.cyou/</loc>
+    <lastmod>2019-06-30T01:15:44+08:00</lastmod>
+  </url><url>
+    <loc>https://aaru.alltale.cyou/tags/%E5%8C%BB%E9%BE%99/</loc>
+    <lastmod>2019-06-30T01:15:44+08:00</lastmod>
+  </url><url>
+    <loc>https://aaru.alltale.cyou/text/pova/</loc>
+    <lastmod>2019-06-30T01:15:44+08:00</lastmod>
+  </url><url>
+    <loc>https://aaru.alltale.cyou/categories/study/</loc>
+    <lastmod>2018-12-17T01:15:44+08:00</lastmod>
+  </url><url>
+    <loc>https://aaru.alltale.cyou/tags/%E6%B8%B8%E6%88%8F%E7%8E%8B/</loc>
+    <lastmod>2018-12-17T01:15:44+08:00</lastmod>
+  </url><url>
+    <loc>https://aaru.alltale.cyou/text/ygoegyptology/</loc>
+    <lastmod>2018-12-17T01:15:44+08:00</lastmod>
+  </url><url>
+    <loc>https://aaru.alltale.cyou/posts/anat/</loc>
+    <lastmod>2018-10-20T01:15:44+08:00</lastmod>
+  </url><url>
+    <loc>https://aaru.alltale.cyou/posts/</loc>
+    <lastmod>2018-10-20T01:15:44+08:00</lastmod>
+  </url><url>
+    <loc>https://aaru.alltale.cyou/sources/</loc>
+    <lastmod>2018-10-20T01:15:44+08:00</lastmod>
+  </url><url>
     <loc>https://aaru.alltale.cyou/sources/the-routledge-dictionary-of-egyptian-gods-and-goddesses/</loc>
     <lastmod>2018-10-20T01:15:44+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aaru.alltale.cyou/theme/</loc>
-    <lastmod>2018-08-27T03:51:12+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aaru.alltale.cyou/translation/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aaru.alltale.cyou/tags/%E4%BA%BA%E5%B7%A5%E6%9C%BA%E7%BF%BB/</loc>
     <lastmod>2018-10-20T01:15:44+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://aaru.alltale.cyou/posts/apis/</loc>
+    <lastmod>2018-10-19T00:55:57+08:00</lastmod>
+  </url><url>
+    <loc>https://aaru.alltale.cyou/categories/code/</loc>
+    <lastmod>2018-10-17T19:43:12+08:00</lastmod>
+  </url><url>
+    <loc>https://aaru.alltale.cyou/tags/hugo/</loc>
+    <lastmod>2018-10-17T19:43:12+08:00</lastmod>
+  </url><url>
+    <loc>https://aaru.alltale.cyou/posts/hugo/</loc>
+    <lastmod>2018-10-17T19:43:12+08:00</lastmod>
+  </url><url>
+    <loc>https://aaru.alltale.cyou/posts/haurun/</loc>
+    <lastmod>2018-10-14T03:19:36+08:00</lastmod>
+  </url><url>
+    <loc>https://aaru.alltale.cyou/posts/banebdjedet/</loc>
+    <lastmod>2018-10-14T02:09:41+08:00</lastmod>
+  </url><url>
+    <loc>https://aaru.alltale.cyou/posts/taweret/</loc>
+    <lastmod>2018-10-14T02:05:08+08:00</lastmod>
+  </url><url>
+    <loc>https://aaru.alltale.cyou/posts/wadjet/</loc>
+    <lastmod>2018-10-14T02:04:15+08:00</lastmod>
+  </url><url>
+    <loc>https://aaru.alltale.cyou/posts/aten/</loc>
+    <lastmod>2018-10-13T18:16:07+08:00</lastmod>
+  </url><url>
+    <loc>https://aaru.alltale.cyou/posts/oyster/</loc>
+    <lastmod>2018-08-27T03:51:12+08:00</lastmod>
+  </url><url>
+    <loc>https://aaru.alltale.cyou/theme/oyster/</loc>
+    <lastmod>2018-08-27T03:51:12+08:00</lastmod>
+  </url><url>
+    <loc>https://aaru.alltale.cyou/theme/</loc>
+    <lastmod>2018-08-27T03:51:12+08:00</lastmod>
+  </url><url>
     <loc>https://aaru.alltale.cyou/categories/%E6%A8%A1%E6%9D%BF/</loc>
     <lastmod>2018-08-27T03:51:12+08:00</lastmod>
-    <priority>0</priority>
+  </url><url>
+    <loc>https://aaru.alltale.cyou/posts/myopera/</loc>
+    <lastmod>2018-07-24T23:54:40+08:00</lastmod>
+  </url><url>
+    <loc>https://aaru.alltale.cyou/theme/myopera/</loc>
+    <lastmod>2018-07-24T23:54:40+08:00</lastmod>
+  </url><url>
+    <loc>https://aaru.alltale.cyou/posts/astarte/</loc>
+    <lastmod>2016-09-10T18:51:24+08:00</lastmod>
+  </url><url>
+    <loc>https://aaru.alltale.cyou/text/kuebiko/</loc>
+    <lastmod>2016-06-27T01:15:44+08:00</lastmod>
+  </url><url>
+    <loc>https://aaru.alltale.cyou/text/bocfbd/</loc>
+    <lastmod>2016-01-25T18:59:40+08:00</lastmod>
+  </url><url>
+    <loc>https://aaru.alltale.cyou/posts/atum/</loc>
+    <lastmod>2015-12-28T06:45:33+08:00</lastmod>
+  </url><url>
+    <loc>https://aaru.alltale.cyou/posts/osiris/</loc>
+    <lastmod>2015-12-27T20:58:04+08:00</lastmod>
+  </url><url>
+    <loc>https://aaru.alltale.cyou/posts/isis/</loc>
+    <lastmod>2015-12-26T09:15:56+08:00</lastmod>
+  </url><url>
+    <loc>https://aaru.alltale.cyou/posts/horus/</loc>
+    <lastmod>2015-12-26T04:34:08+08:00</lastmod>
+  </url><url>
+    <loc>https://aaru.alltale.cyou/posts/seth/</loc>
+    <lastmod>2015-12-25T18:18:14+08:00</lastmod>
+  </url><url>
+    <loc>https://aaru.alltale.cyou/text/lethobenthos/</loc>
+    <lastmod>2015-02-24T01:15:44+08:00</lastmod>
+  </url><url>
+    <loc>https://aaru.alltale.cyou/about/</loc>
+  </url><url>
+    <loc>https://aaru.alltale.cyou/artwork/</loc>
+  </url><url>
+    <loc>https://aaru.alltale.cyou/comic/</loc>
+  </url><url>
+    <loc>https://aaru.alltale.cyou/illust/</loc>
+  </url><url>
+    <loc>https://aaru.alltale.cyou/sketch/</loc>
+  </url><url>
+    <loc>https://aaru.alltale.cyou/translation/</loc>
   </url>
-  
-  <url>
-    <loc>https://aaru.alltale.cyou/</loc>
-    <lastmod>2022-01-01T01:15:44+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
 </urlset>

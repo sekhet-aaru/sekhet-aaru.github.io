@@ -1,14 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sketch on 苇原</title>
     <link>https://aaru.alltale.cyou/sketch/</link>
     <description>Recent content in Sketch on 苇原</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-hans</language>
-    
-	<atom:link href="https://aaru.alltale.cyou/sketch/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>zh-hans</language><atom:link href="https://aaru.alltale.cyou/sketch/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

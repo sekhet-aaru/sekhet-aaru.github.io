@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 苇原</title>
@@ -6,9 +6,24 @@
     <description>Recent content in Categories on 苇原</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-hans</language>
+    <lastBuildDate>Sun, 30 Jun 2019 01:15:44 +0800</lastBuildDate><atom:link href="https://aaru.alltale.cyou/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fanfic</title>
+      <link>https://aaru.alltale.cyou/categories/fanfic/</link>
+      <pubDate>Sun, 30 Jun 2019 01:15:44 +0800</pubDate>
+      
+      <guid>https://aaru.alltale.cyou/categories/fanfic/</guid>
+      <description></description>
+    </item>
     
-	<atom:link href="https://aaru.alltale.cyou/categories/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>Study</title>
+      <link>https://aaru.alltale.cyou/categories/study/</link>
+      <pubDate>Mon, 17 Dec 2018 01:15:44 +0800</pubDate>
+      
+      <guid>https://aaru.alltale.cyou/categories/study/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Code</title>
