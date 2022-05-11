@@ -33,6 +33,16 @@ a:hover {
 blockquote {
   margin: 2em 1em;
   font-style: normal;
+  overflow: hidden;
+  transition: height .5s ease-out;
+}
+
+blockquote p:first-child {
+  margin-top: 0;
+}
+
+blockquote p:last-child {
+  margin-bottom: 0;
 }
 
 hr {
