@@ -116,6 +116,12 @@ hr {
   margin-bottom: 64px;
 }
 
+@media screen and (max-width: 960px) {
+  .site-main {
+    margin-top: 5em;
+  }
+}
+
 .posts-group .post-category {
   width: 3em;
   line-height: 50px;
